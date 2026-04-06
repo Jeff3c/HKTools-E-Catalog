@@ -134,7 +134,7 @@
     showStatus('準備 catalog-data.js 內容...');
     const products = buildProductsFromForm();
     const meta = window.CATALOG_META || {};
-    const jsContent = 'window.CATALOG_PRODUCTS = ' + JSON.stringify(products, null, 2) + ';\n+window.CATALOG_META = ' + JSON.stringify(meta, null, 2) + ';';
+      const jsContent = 'window.CATALOG_PRODUCTS = ' + JSON.stringify(products, null, 2) + '\nwindow.CATALOG_META = ' + JSON.stringify(meta, null, 2) + ';';
     const encoder = new TextEncoder();
     const array = encoder.encode(jsContent);
     const contentBase64 = arrayBufferToBase64(array.buffer);
@@ -144,6 +144,142 @@
     showStatus('GitHub 推送完成');
     return true;
   }
+    // Fetch the remote catalog-data.js and extract products/meta safely (no eval)
+    async function getRemoteCatalog(owner, repo, path, branch, token) {
+      const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`;
+      const headers = { 'Accept': 'application/vnd.github.v3+json' };
+      if (token) headers['Authorization'] = 'token ' + token;
+      const res = await fetch(url, { headers });
+      if (res.status === 404) return { products: null, meta: null, raw: null, sha: null };
+      if (!res.ok) {
+        const txt = await res.text();
+        throw new Error(`Failed to fetch remote catalog: ${res.status} ${txt}`);
+      }
+      const j = await res.json();
+      const sha = j.sha;
+      const raw = typeof j.content === 'string' ? atob(j.content.replace(/\s/g, '')) : '';
+
+      // helper to extract a balanced JSON value that starts at first non-space after '=' for varName
+      function extractJsonValue(source, varName) {
+        const idx = source.indexOf(varName);
+        if (idx === -1) return null;
+        const eq = source.indexOf('=', idx);
+        if (eq === -1) return null;
+        let i = eq + 1;
+        // skip whitespace
+        while (i < source.length && /[\s;]/.test(source[i])) i++;
+        if (i >= source.length) return null;
+        const startChar = source[i];
+        if (startChar !== '[' && startChar !== '{') return null;
+        let depth = 0;
+        let inString = null;
+        let escaped = false;
+        for (let k = i; k < source.length; k++) {
+          const ch = source[k];
+          if (inString) {
+            if (escaped) { escaped = false; continue; }
+            if (ch === '\\') { escaped = true; continue; }
+            if (ch === inString) { inString = null; }
+          } else {
+            if (ch === '"' || ch === "'") { inString = ch; }
+            else if (ch === startChar) { depth++; }
+            else if ((ch === ']' && startChar === '[') || (ch === '}' && startChar === '{')) {
+              depth--;
+              if (depth === 0) {
+                const substr = source.substring(i, k + 1);
+                try { return JSON.parse(substr); } catch (_e) { return null; }
+              }
+            }
+          }
+        }
+        return null;
+      }
+
+      const products = extractJsonValue(raw, 'window.CATALOG_PRODUCTS') || null;
+      const meta = extractJsonValue(raw, 'window.CATALOG_META') || null;
+      return { products, meta, raw, sha };
+    }
+
+    async function commitCatalogAndImages({ owner, repo, branch, path, token, commitMessage, images }) {
+      if (!owner || !repo || !path || !token) throw new Error('缺少 GitHub 設定（owner / repo / path / token）。');
+
+      // upload images first
+      if (images && images.length) {
+        for (const img of images) {
+          showStatus(`上傳圖片 ${img.targetPath}...`);
+          const base64 = await fileToBase64(img.file);
+          const sha = await getFileSha(owner, repo, img.targetPath, branch, token);
+          await putFile(owner, repo, img.targetPath, branch, token, base64, commitMessage || `Add/Update ${img.targetPath}`, sha);
+          showStatus(`已上傳 ${img.targetPath}`);
+        }
+      }
+
+      // fetch remote catalog-data.js content and parse products/meta
+      showStatus('讀取遠端 catalog-data.js 以進行合併...');
+      let remote = { products: null, meta: null, raw: null, sha: null };
+      try {
+        remote = await getRemoteCatalog(owner, repo, path, branch, token);
+      } catch (e) {
+        // ignore but warn
+        console.warn('fetch remote catalog failed', e);
+        remote = { products: null, meta: null, raw: null, sha: await getFileSha(owner, repo, path, branch, token) };
+      }
+
+      const remoteProducts = Array.isArray(remote.products) ? remote.products : (Array.isArray(window.CATALOG_PRODUCTS) ? window.CATALOG_PRODUCTS : []);
+      const meta = remote.meta || window.CATALOG_META || {};
+
+      // build edited product from editor fields (merge into remoteProducts)
+      const id = $('fieldId').value.trim();
+      const edited = {
+        id: id || null,
+        category: $('fieldCategory').value.trim(),
+        section: $('fieldSection').value.trim(),
+        subSection: $('fieldSubSection').value.trim(),
+        name: $('fieldName').value.trim(),
+        code: $('fieldCode').value.trim(),
+        specs: $('fieldSpecs').value.trim(),
+        image: $('fieldImage').value.trim(),
+        pdfPage: $('fieldPdfPage').value ? Number($('fieldPdfPage').value) : null,
+        pdfPageLocal: $('fieldPdfPageLocal').value ? Number($('fieldPdfPageLocal').value) : null,
+        pdfFile: $('fieldPdfFile').value.trim(),
+        pdfLink: $('fieldPdfLink').value.trim(),
+        source: $('fieldSource').value.trim(),
+        materials: $('fieldMaterials').value.trim(),
+        purposes: $('fieldPurposes').value.trim(),
+        tagBrand: $('fieldTagBrand').value.trim(),
+        tagType: $('fieldTagType').value.trim(),
+        materialText: $('fieldMaterialText').value.trim(),
+        purposeText: $('fieldPurposeText').value.trim(),
+        packaging: $('fieldPackaging').value.trim(),
+        accessories: $('fieldAccessories').value.trim(),
+        notes: $('fieldNotes').value.trim()
+      };
+
+      // merge
+      let idx = -1;
+      if (edited.id) idx = remoteProducts.findIndex(p => p.id == edited.id || p.code == edited.code);
+      if (idx >= 0) remoteProducts[idx] = Object.assign({}, remoteProducts[idx], edited);
+      else remoteProducts.push(edited);
+
+      // prepare JS content without stray characters
+      const jsContent = 'window.CATALOG_PRODUCTS = ' + JSON.stringify(remoteProducts, null, 2) + '\nwindow.CATALOG_META = ' + JSON.stringify(meta, null, 2) + ';';
+      const encoder = new TextEncoder();
+      const array = encoder.encode(jsContent);
+      const contentBase64 = arrayBufferToBase64(array.buffer);
+
+      const targetSha = remote.sha || await getFileSha(owner, repo, path, branch, token);
+      showStatus('上傳 catalog-data.js ...');
+      const resp = await putFile(owner, repo, path, branch, token, contentBase64, commitMessage || `Update ${path} via admin`, targetSha);
+      // show commit details if available
+      try {
+        const commitSha = resp && resp.commit && resp.commit.sha ? resp.commit.sha : null;
+        showStatus('GitHub 推送完成 ' + (commitSha ? `（${commitSha.substring(0,7)}）` : ''));
+      } catch (_e) {
+        showStatus('GitHub 推送完成');
+      }
+
+      return true;
+    }
 
   document.addEventListener('DOMContentLoaded', () => {
     const githubTokenInput = $('githubTokenInput');
