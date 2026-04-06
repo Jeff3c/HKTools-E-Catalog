@@ -38,6 +38,45 @@
         <label class="import-btn" for="importInput">匯入 JSON</label>
         <input id="importInput" type="file" accept="application/json" hidden>
         <button id="logoutBtn" type="button">登出</button>
+        <!-- GitHub commit controls -->
+        <div class="github-controls" style="margin-left:12px;">
+          <details>
+            <summary>GitHub 推送</summary>
+            <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:8px;">
+              <label style="display:flex;flex-direction:column;">
+                Personal Access Token
+                <input id="githubTokenInput" type="password" placeholder="Paste PAT (repo scope)" style="min-width:220px">
+              </label>
+              <label style="display:flex;flex-direction:column;">
+                Owner
+                <input id="githubOwnerInput" type="text" placeholder="github-username/org">
+              </label>
+              <label style="display:flex;flex-direction:column;">
+                Repo
+                <input id="githubRepoInput" type="text" placeholder="repository-name">
+              </label>
+              <label style="display:flex;flex-direction:column;">
+                Branch
+                <input id="githubBranchInput" type="text" placeholder="main or gh-pages">
+              </label>
+              <label style="display:flex;flex-direction:column;">
+                Remote path
+                <input id="githubPathInput" type="text" placeholder="catalog-data.js">
+              </label>
+              <label style="display:flex;flex-direction:column;">
+                Commit 訊息
+                <input id="githubCommitMessageInput" type="text" placeholder="Update catalog-data.js via admin UI">
+              </label>
+              <label style="display:flex;align-items:center;gap:6px;">
+                <input id="rememberToken" type="checkbox">
+                記住 token（僅存在此瀏覽器）
+              </label>
+              <div style="align-self:center">
+                <button id="githubCommitBtn" type="button">推送到 GitHub</button>
+              </div>
+            </div>
+          </details>
+        </div>
       </div>
 
       <div class="toolbar-row secondary">

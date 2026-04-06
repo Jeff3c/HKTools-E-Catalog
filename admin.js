@@ -1,3 +1,281 @@
+/* admin.js
+   Minimal admin helpers: image upload/paste preview and GitHub commit (PUT /repos/:owner/:repo/contents/:path).
+   Usage:
+   - Enter a Personal Access Token with `repo` permissions (works for public/private repos where token has access).
+   - Fill Owner, Repo, Branch and Remote path (e.g., catalog-data.js).
+   - Optionally upload or paste an image in the preview area; the image will be uploaded to `images/<generated-filename>`.
+   - Press "推送到 GitHub" to upload images (if any) and update `catalog-data.js`.
+*/
+(function () {
+  'use strict';
+
+  function $(id) { return document.getElementById(id); }
+
+  function showStatus(msg, isError) {
+    const el = $('statusText');
+    if (el) {
+      el.textContent = msg;
+      el.style.color = isError ? 'crimson' : '';
+    } else {
+      console.log(msg);
+    }
+  }
+
+  function arrayBufferToBase64(buffer) {
+    let binary = '';
+    const bytes = new Uint8Array(buffer);
+    const chunkSize = 0x8000;
+    for (let i = 0; i < bytes.length; i += chunkSize) {
+      binary += String.fromCharCode.apply(null, bytes.subarray(i, i + chunkSize));
+    }
+    return btoa(binary);
+  }
+
+  function fileToBase64(file) {
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = function () {
+        const base64 = arrayBufferToBase64(reader.result);
+        resolve(base64);
+      };
+      reader.onerror = reject;
+      reader.readAsArrayBuffer(file);
+    });
+  }
+
+  async function getFileSha(owner, repo, path, branch, token) {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`;
+    const headers = { 'Accept': 'application/vnd.github.v3+json' };
+    if (token) headers['Authorization'] = 'token ' + token;
+    const res = await fetch(url, { headers });
+    if (res.status === 200) {
+      const j = await res.json();
+      return j.sha;
+    } else if (res.status === 404) {
+      return null;
+    } else {
+      const text = await res.text();
+      throw new Error(`Failed to get file sha: ${res.status} ${text}`);
+    }
+  }
+
+  async function putFile(owner, repo, path, branch, token, contentBase64, message, sha) {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`;
+    const body = { message: message || 'Update via admin', content: contentBase64, branch: branch || 'main' };
+    if (sha) body.sha = sha;
+    const headers = {
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
+    if (token) headers['Authorization'] = 'token ' + token;
+    const res = await fetch(url, {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify(body)
+    });
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`Failed to put file ${path}: ${res.status} ${text}`);
+    }
+    return await res.json();
+  }
+
+  function sanitizeFilename(name) {
+    return name.replace(/[^a-z0-9_.-]/gi, '_');
+  }
+
+  function buildProductsFromForm() {
+    const products = Array.isArray(window.CATALOG_PRODUCTS) ? JSON.parse(JSON.stringify(window.CATALOG_PRODUCTS)) : [];
+    const id = $('fieldId').value.trim();
+    const edited = {
+      id: id || null,
+      category: $('fieldCategory').value.trim(),
+      section: $('fieldSection').value.trim(),
+      subSection: $('fieldSubSection').value.trim(),
+      name: $('fieldName').value.trim(),
+      code: $('fieldCode').value.trim(),
+      specs: $('fieldSpecs').value.trim(),
+      image: $('fieldImage').value.trim(),
+      pdfPage: $('fieldPdfPage').value ? Number($('fieldPdfPage').value) : null,
+      pdfPageLocal: $('fieldPdfPageLocal').value ? Number($('fieldPdfPageLocal').value) : null,
+      pdfFile: $('fieldPdfFile').value.trim(),
+      pdfLink: $('fieldPdfLink').value.trim(),
+      source: $('fieldSource').value.trim(),
+      materials: $('fieldMaterials').value.trim(),
+      purposes: $('fieldPurposes').value.trim(),
+      tagBrand: $('fieldTagBrand').value.trim(),
+      tagType: $('fieldTagType').value.trim(),
+      materialText: $('fieldMaterialText').value.trim(),
+      purposeText: $('fieldPurposeText').value.trim(),
+      packaging: $('fieldPackaging').value.trim(),
+      accessories: $('fieldAccessories').value.trim(),
+      notes: $('fieldNotes').value.trim()
+    };
+    let idx = -1;
+    if (edited.id) idx = products.findIndex(p => p.id == edited.id || p.code == edited.code);
+    if (idx >= 0) products[idx] = Object.assign({}, products[idx], edited);
+    else products.push(edited);
+    return products;
+  }
+
+  async function commitCatalogAndImages({ owner, repo, branch, path, token, commitMessage, images }) {
+    if (!owner || !repo || !path || !token) throw new Error('缺少 GitHub 設定（owner / repo / path / token）。');
+    // upload images
+    if (images && images.length) {
+      for (const img of images) {
+        showStatus(`上傳圖片 ${img.targetPath}...`);
+        const base64 = await fileToBase64(img.file);
+        const sha = await getFileSha(owner, repo, img.targetPath, branch, token);
+        await putFile(owner, repo, img.targetPath, branch, token, base64, commitMessage || `Add/Update ${img.targetPath}`, sha);
+        showStatus(`已上傳 ${img.targetPath}`);
+      }
+    }
+    // update catalog-data.js
+    showStatus('準備 catalog-data.js 內容...');
+    const products = buildProductsFromForm();
+    const meta = window.CATALOG_META || {};
+    const jsContent = 'window.CATALOG_PRODUCTS = ' + JSON.stringify(products, null, 2) + ';\n+window.CATALOG_META = ' + JSON.stringify(meta, null, 2) + ';';
+    const encoder = new TextEncoder();
+    const array = encoder.encode(jsContent);
+    const contentBase64 = arrayBufferToBase64(array.buffer);
+    const targetSha = await getFileSha(owner, repo, path, branch, token);
+    showStatus('上傳 catalog-data.js ...');
+    await putFile(owner, repo, path, branch, token, contentBase64, commitMessage || `Update ${path} via admin`, targetSha);
+    showStatus('GitHub 推送完成');
+    return true;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const githubTokenInput = $('githubTokenInput');
+    const githubOwnerInput = $('githubOwnerInput');
+    const githubRepoInput = $('githubRepoInput');
+    const githubBranchInput = $('githubBranchInput');
+    const githubPathInput = $('githubPathInput');
+    const githubCommitMessageInput = $('githubCommitMessageInput');
+    const rememberTokenInput = $('rememberToken');
+    const githubCommitBtn = $('githubCommitBtn');
+    const uploadImageInput = $('uploadImageInput');
+    const previewImage = $('previewImage');
+    const previewPath = $('previewPath');
+    const pasteDropZone = $('pasteDropZone');
+    const exportBtn = $('exportBtn');
+    const loginBtn = $('loginBtn');
+
+    // restore token if saved
+    try {
+      const saved = localStorage.getItem('hktools_github_token');
+      if (saved) githubTokenInput.value = saved;
+    } catch (e) {}
+
+    uploadImageInput.addEventListener('change', (e) => {
+      const f = e.target.files && e.target.files[0];
+      if (!f) return;
+      previewImage.src = URL.createObjectURL(f);
+      previewPath.textContent = f.name;
+    });
+
+    pasteDropZone.addEventListener('paste', (ev) => {
+      const items = (ev.clipboardData || ev.originalEvent.clipboardData).items;
+      for (let i = 0; i < items.length; i++) {
+        const it = items[i];
+        if (it.type.indexOf('image') !== -1) {
+          const blob = it.getAsFile();
+          previewImage.src = URL.createObjectURL(blob);
+          previewPath.textContent = '貼上的圖片';
+          uploadImageInput._pastedFile = blob;
+          ev.preventDefault();
+          break;
+        }
+      }
+    });
+
+    pasteDropZone.addEventListener('drop', (ev) => {
+      ev.preventDefault();
+      const f = ev.dataTransfer.files && ev.dataTransfer.files[0];
+      if (!f) return;
+      try { uploadImageInput.files = ev.dataTransfer.files; } catch (e) {}
+      previewImage.src = URL.createObjectURL(f);
+      previewPath.textContent = f.name;
+    });
+    pasteDropZone.addEventListener('dragover', ev => ev.preventDefault());
+
+    // export current products as JSON
+    exportBtn.addEventListener('click', () => {
+      const products = window.CATALOG_PRODUCTS || [];
+      const blob = new Blob([JSON.stringify(products, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'catalog-data-export.json';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+      showStatus('匯出完成');
+    });
+
+    // login (simple)
+    loginBtn.addEventListener('click', () => {
+      const v = $('passwordInput').value;
+      const stored = localStorage.getItem('hktools_admin_password');
+      if ((stored && v === stored) || (!stored && v === 'hktools-admin')) {
+        $('loginPanel').hidden = true;
+        $('adminApp').hidden = false;
+        showStatus('登入成功');
+      } else {
+        $('loginError').hidden = false;
+      }
+    });
+
+    // commit handler
+    let lock = false;
+    githubCommitBtn.addEventListener('click', async () => {
+      if (lock) return;
+      lock = true;
+      try {
+        const token = githubTokenInput.value.trim();
+        if (!token) { showStatus('請輸入 GitHub token', true); lock = false; return; }
+        if (rememberTokenInput.checked) localStorage.setItem('hktools_github_token', token);
+        else localStorage.removeItem('hktools_github_token');
+        const owner = githubOwnerInput.value.trim();
+        const repo = githubRepoInput.value.trim();
+        const branch = githubBranchInput.value.trim() || 'main';
+        const path = githubPathInput.value.trim() || 'catalog-data.js';
+        const commitMessage = githubCommitMessageInput.value.trim() || `Update ${path} via admin UI`;
+
+        const images = [];
+        if (uploadImageInput.files && uploadImageInput.files.length > 0) {
+          const file = uploadImageInput.files[0];
+          const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || Date.now();
+          const ext = (file.type && file.type.split('/').pop()) || (file.name.split('.').pop()) || 'jpg';
+          const filename = sanitizeFilename(`${prodId}_${Date.now()}.${ext}`);
+          const targetPath = `images/${filename}`;
+          $('fieldImage').value = targetPath;
+          images.push({ file, targetPath });
+        } else if (uploadImageInput._pastedFile) {
+          const file = uploadImageInput._pastedFile;
+          const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || Date.now();
+          const ext = (file.type && file.type.split('/').pop()) || 'png';
+          const filename = sanitizeFilename(`${prodId}_${Date.now()}.${ext}`);
+          const targetPath = `images/${filename}`;
+          $('fieldImage').value = targetPath;
+          images.push({ file, targetPath });
+        }
+
+        showStatus('開始推送到 GitHub...');
+        await commitCatalogAndImages({ owner, repo, branch, path, token, commitMessage, images });
+        showStatus('推送完成');
+      } catch (err) {
+        console.error(err);
+        showStatus('錯誤：' + (err.message || err), true);
+      } finally {
+        lock = false;
+      }
+    });
+
+  });
+
+})();
 (function () {
   "use strict";
 
