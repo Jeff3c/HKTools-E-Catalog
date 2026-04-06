@@ -43,6 +43,22 @@
     });
   }
 
+  function dataUrlToFile(dataUrl, filenameBase) {
+    const match = /^data:([^;]+);base64,(.+)$/i.exec(String(dataUrl || ''));
+    if (!match) return null;
+
+    const mime = match[1] || 'image/png';
+    const binary = atob(match[2]);
+    const bytes = new Uint8Array(binary.length);
+    for (let i = 0; i < binary.length; i++) {
+      bytes[i] = binary.charCodeAt(i);
+    }
+
+    const ext = ((mime.split('/')[1] || 'png').split('+')[0] || 'png').replace(/[^a-z0-9]/gi, '');
+    const filename = sanitizeFilename(`${filenameBase}.${ext || 'png'}`);
+    return new File([bytes], filename, { type: mime });
+  }
+
   async function getFileSha(owner, repo, path, branch, token) {
     const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`;
     const headers = { 'Accept': 'application/vnd.github.v3+json' };
@@ -291,77 +307,12 @@
     const rememberTokenInput = $('rememberToken');
     const githubCommitBtn = $('githubCommitBtn');
     const uploadImageInput = $('uploadImageInput');
-    const previewImage = $('previewImage');
-    const previewPath = $('previewPath');
-    const pasteDropZone = $('pasteDropZone');
-    const exportBtn = $('exportBtn');
-    const loginBtn = $('loginBtn');
 
     // restore token if saved
     try {
       const saved = localStorage.getItem('hktools_github_token');
       if (saved) githubTokenInput.value = saved;
     } catch (e) {}
-
-    uploadImageInput.addEventListener('change', (e) => {
-      const f = e.target.files && e.target.files[0];
-      if (!f) return;
-      previewImage.src = URL.createObjectURL(f);
-      previewPath.textContent = f.name;
-    });
-
-    pasteDropZone.addEventListener('paste', (ev) => {
-      const items = (ev.clipboardData || ev.originalEvent.clipboardData).items;
-      for (let i = 0; i < items.length; i++) {
-        const it = items[i];
-        if (it.type.indexOf('image') !== -1) {
-          const blob = it.getAsFile();
-          previewImage.src = URL.createObjectURL(blob);
-          previewPath.textContent = '貼上的圖片';
-          uploadImageInput._pastedFile = blob;
-          ev.preventDefault();
-          break;
-        }
-      }
-    });
-
-    pasteDropZone.addEventListener('drop', (ev) => {
-      ev.preventDefault();
-      const f = ev.dataTransfer.files && ev.dataTransfer.files[0];
-      if (!f) return;
-      try { uploadImageInput.files = ev.dataTransfer.files; } catch (e) {}
-      previewImage.src = URL.createObjectURL(f);
-      previewPath.textContent = f.name;
-    });
-    pasteDropZone.addEventListener('dragover', ev => ev.preventDefault());
-
-    // export current products as JSON
-    exportBtn.addEventListener('click', () => {
-      const products = window.CATALOG_PRODUCTS || [];
-      const blob = new Blob([JSON.stringify(products, null, 2)], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'catalog-data-export.json';
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
-      URL.revokeObjectURL(url);
-      showStatus('匯出完成');
-    });
-
-    // login (simple)
-    loginBtn.addEventListener('click', () => {
-      const v = $('passwordInput').value;
-      const stored = localStorage.getItem('hktools_admin_password');
-      if ((stored && v === stored) || (!stored && v === 'hktools-admin')) {
-        $('loginPanel').hidden = true;
-        $('adminApp').hidden = false;
-        showStatus('登入成功');
-      } else {
-        $('loginError').hidden = false;
-      }
-    });
 
     // commit handler
     let lock = false;
@@ -380,9 +331,10 @@
         const commitMessage = githubCommitMessageInput.value.trim() || `Update ${path} via admin UI`;
 
         const images = [];
+        const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || String(Date.now());
+
         if (uploadImageInput.files && uploadImageInput.files.length > 0) {
           const file = uploadImageInput.files[0];
-          const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || Date.now();
           const ext = (file.type && file.type.split('/').pop()) || (file.name.split('.').pop()) || 'jpg';
           const filename = sanitizeFilename(`${prodId}_${Date.now()}.${ext}`);
           const targetPath = `images/${filename}`;
@@ -390,12 +342,21 @@
           images.push({ file, targetPath });
         } else if (uploadImageInput._pastedFile) {
           const file = uploadImageInput._pastedFile;
-          const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || Date.now();
           const ext = (file.type && file.type.split('/').pop()) || 'png';
           const filename = sanitizeFilename(`${prodId}_${Date.now()}.${ext}`);
           const targetPath = `images/${filename}`;
           $('fieldImage').value = targetPath;
           images.push({ file, targetPath });
+        } else {
+          const rawImage = $('fieldImage').value.trim();
+          if (/^data:image\//i.test(rawImage)) {
+            const file = dataUrlToFile(rawImage, `${prodId}_${Date.now()}`);
+            if (file) {
+              const targetPath = `images/${sanitizeFilename(file.name)}`;
+              $('fieldImage').value = targetPath;
+              images.push({ file, targetPath });
+            }
+          }
         }
 
         showStatus('開始推送到 GitHub...');
