@@ -16914,7 +16914,7 @@ window.CATALOG_PRODUCTS = [
     "searchText": "\"十\" \"一\" 雙頭批咀: \"GREAT\" SB-6x75 6mm x 75 五金工具系列---批咀"
   }
 ];
-+window.CATALOG_META = {
+window.CATALOG_META = {
   "generatedAt": "",
   "totalProducts": 434,
   "sourceFiles": [
