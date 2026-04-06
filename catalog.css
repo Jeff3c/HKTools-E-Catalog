@@ -245,6 +245,21 @@ body {
   font-size: 0.9rem;
 }
 
+.product-pdf {
+  margin: 4px 0 0;
+  font-size: 0.8rem;
+}
+
+.pdf-page-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(20, 90, 76, 0.45);
+}
+
+.pdf-page-link:hover {
+  border-bottom-color: var(--accent);
+}
+
 .product-meta {
   margin: 0;
   border-top: 1px dashed #d4ccbc;

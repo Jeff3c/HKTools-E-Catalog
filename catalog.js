@@ -193,6 +193,7 @@
       const name = card.querySelector(".product-name");
       const code = card.querySelector(".product-code");
       const specs = card.querySelector(".product-specs");
+      const pdfPageLink = card.querySelector(".pdf-page-link");
       const materialRow = card.querySelector(".chip-materials");
       const purposeRow = card.querySelector(".chip-purposes");
       const meta = card.querySelector(".product-meta");
@@ -217,6 +218,20 @@
       name.textContent = product.name || "未命名產品";
       code.textContent = product.code ? `編號: ${product.code}` : "";
       specs.textContent = product.specs ? `規格: ${product.specs}` : "";
+
+      if (pdfPageLink) {
+        const pageNo = Number(product.pdfPage || product.page || 0);
+        const href = String(product.pdfLink || "").trim();
+        if (href && pageNo > 0) {
+          pdfPageLink.href = href;
+          pdfPageLink.textContent = `PDF Page ${pageNo}`;
+          pdfPageLink.hidden = false;
+        } else {
+          pdfPageLink.removeAttribute("href");
+          pdfPageLink.textContent = "";
+          pdfPageLink.hidden = true;
+        }
+      }
 
       materialRow.replaceChildren(...(product.materials || []).map((tag) => buildChip(tag, "material")));
       purposeRow.replaceChildren(...(product.purposes || []).map((tag) => buildChip(tag, "purpose")));

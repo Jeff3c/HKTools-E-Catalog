@@ -1,0 +1,7610 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.044,
+                0.021,
+                0.904,
+                0.053
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.06,
+                0.316,
+                0.142
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.027,
+                0.143,
+                0.447,
+                0.161
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.162,
+                0.484,
+                0.226
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>油壓鑰用囉頭運水頭--油壓鑰/電鑰用</td></tr><tr><td>編號:</td><td>WS</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5 (1/2&quot; X20UNF)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.246,
+                0.351,
+                0.303
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.108,
+                0.304,
+                0.293,
+                0.321
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.323,
+                0.484,
+                0.386
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>四坑油壓鑰用接杆</td></tr><tr><td>編號:</td><td>SDSM16x1.5</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.391,
+                0.399,
+                0.482
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.022,
+                0.485,
+                0.472,
+                0.503
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.056,
+                0.507,
+                0.46,
+                0.522
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.526,
+                0.439,
+                0.541
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.614,
+                0.059,
+                0.903,
+                0.14
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.571,
+                0.143,
+                0.93,
+                0.161
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.526,
+                0.162,
+                0.979,
+                0.226
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>油壓鑰用囉頭運水頭--油壓鑰/電鑰用</td></tr><tr><td>編號:</td><td>WSM</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5 (1/2&quot; X20UNF)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.53,
+                0.23,
+                0.78,
+                0.299
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.795,
+                0.23,
+                0.958,
+                0.31
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.529,
+                0.308,
+                0.773,
+                0.347
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.773,
+                0.316,
+                0.965,
+                0.401
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.523,
+                0.398,
+                0.789,
+                0.482
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.811,
+                0.408,
+                0.962,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.485,
+                0.951,
+                0.503
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.541,
+                0.507,
+                0.958,
+                0.522
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.542,
+                0.526,
+                0.969,
+                0.541
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.104,
+                0.555,
+                0.383,
+                0.624
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.022,
+                0.626,
+                0.472,
+                0.645
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.056,
+                0.651,
+                0.17,
+                0.665
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.669,
+                0.474,
+                0.683
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.526,
+                0.557,
+                0.812,
+                0.624
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.877,
+                0.542,
+                0.958,
+                0.622
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.528,
+                0.629,
+                0.949,
+                0.645
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.65,
+                0.593,
+                0.664
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.668,
+                0.962,
+                0.683
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.687,
+                0.255,
+                0.764
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.525,
+                0.688,
+                0.753,
+                0.763
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.885,
+                0.684,
+                0.967,
+                0.764
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.022,
+                0.766,
+                0.499,
+                0.784
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.056,
+                0.79,
+                0.17,
+                0.803
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.807,
+                0.435,
+                0.822
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.768,
+                0.949,
+                0.784
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.789,
+                0.593,
+                0.802
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.53,
+                0.807,
+                0.852,
+                0.822
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.828,
+                0.346,
+                0.896
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.022,
+                0.898,
+                0.498,
+                0.915
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.056,
+                0.92,
+                0.174,
+                0.934
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.938,
+                0.446,
+                0.952
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.527,
+                0.827,
+                0.713,
+                0.895
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.891,
+                0.822,
+                0.962,
+                0.893
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.898,
+                0.949,
+                0.915
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.529,
+                0.919,
+                0.596,
+                0.933
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.53,
+                0.938,
+                0.864,
+                0.952
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.484,
+                0.963,
+                0.55,
+                0.977
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.02,
+                0.906,
+                0.053
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.027,
+                0.141,
+                0.45,
+                0.162
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.537,
+                0.484,
+                0.95,
+                0.505
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.544,
+                0.506,
+                0.617,
+                0.523
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.805,
+                0.506,
+                0.959,
+                0.524
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.543,
+                0.526,
+                0.97,
+                0.542
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.06,
+                0.668,
+                0.476,
+                0.685
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.525,
+                0.626,
+                0.952,
+                0.647
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.532,
+                0.669,
+                0.963,
+                0.684
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.527,
+                0.766,
+                0.951,
+                0.785
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.526,
+                0.896,
+                0.952,
+                0.917
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.303,
+                0.294,
+                0.322
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.024,
+                0.485,
+                0.472,
+                0.504
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.024,
+                0.627,
+                0.473,
+                0.646
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.024,
+                0.765,
+                0.501,
+                0.786
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.896,
+                0.5,
+                0.917
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.053,
+                0.505,
+                0.183,
+                0.523
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.307,
+                0.508,
+                0.46,
+                0.523
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.061,
+                0.525,
+                0.44,
+                0.541
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.06,
+                0.806,
+                0.437,
+                0.823
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.06,
+                0.937,
+                0.448,
+                0.953
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.57,
+                0.141,
+                0.932,
+                0.162
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.529,
+                0.937,
+                0.866,
+                0.954
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.054,
+                0.649,
+                0.172,
+                0.666
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.054,
+                0.787,
+                0.172,
+                0.804
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.053,
+                0.917,
+                0.177,
+                0.935
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.527,
+                0.649,
+                0.594,
+                0.666
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.526,
+                0.787,
+                0.596,
+                0.805
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.527,
+                0.918,
+                0.599,
+                0.935
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.481,
+                0.96,
+                0.554,
+                0.98
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.531,
+                0.808,
+                0.854,
+                0.822
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.023,
+                0.851,
+                0.053
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.042,
+                0.077,
+                0.444,
+                0.097
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.027,
+                0.097,
+                0.558,
+                0.186
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆8&quot;長</td></tr><tr><td>編號:</td><td>DS200</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長245MM-外螺紋長45MM</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.027,
+                0.2,
+                0.558,
+                0.288
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆12&quot;長</td></tr><tr><td>編號:</td><td>DS300</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長345MM-外螺紋長45MM</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.027,
+                0.303,
+                0.558,
+                0.391
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆16&quot;長</td></tr><tr><td>編號:</td><td>DS400</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長445MM-外螺紋長45MM</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.636,
+                0.079,
+                0.892,
+                0.407
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.045,
+                0.441,
+                0.53,
+                0.464
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.027,
+                0.465,
+                0.558,
+                0.573
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>鑽孔機集水器</td></tr><tr><td>編號:</td><td>WH</td></tr><tr><td>規格:</td><td>4-1/2&quot;或以下鑽頭用</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.58,
+                0.409,
+                0.95,
+                0.578
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.724,
+                0.583,
+                0.927,
+                0.599
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.042,
+                0.612,
+                0.551,
+                0.632
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.027,
+                0.633,
+                0.558,
+                0.956
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>編號:</td><td>產品名稱:</td></tr><tr><td>HS20</td><td>20MM(3/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS25</td><td>25MM(1&quot;)--麻石/雲石令梳</td></tr><tr><td>HS32</td><td>32MM(1-1/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS35</td><td>35MM(1-3/8&quot;)--麻石/雲石令梳</td></tr><tr><td>HS38</td><td>38MM(1-1/2&quot;)--麻石/雲石令梳</td></tr><tr><td>HS45</td><td>45MM(1-3/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS50</td><td>50MM(2&quot;)--麻石/雲石令梳</td></tr><tr><td>HS60</td><td>60MM(2-3/8&quot;)--麻石/雲石令梳</td></tr><tr><td>打孔材料:</td><td>麻石,雲石,人造石,混凝土…</td></tr><tr><td></td><td>帶定位鑰咀,有效打孔深度約70MM.</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.727,
+                0.638,
+                0.807,
+                0.66
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.654,
+                0.667,
+                0.877,
+                0.689
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.571,
+                0.692,
+                0.958,
+                0.863
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.724,
+                0.906,
+                0.824,
+                0.922
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.557,
+                0.966,
+                0.623,
+                0.981
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.726,
+                0.584,
+                0.927,
+                0.599
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.044,
+                0.077,
+                0.446,
+                0.098
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.724,
+                0.906,
+                0.825,
+                0.923
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.724,
+                0.637,
+                0.808,
+                0.662
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.554,
+                0.964,
+                0.627,
+                0.984
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.022,
+                0.854,
+                0.056
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.048,
+                0.441,
+                0.24,
+                0.466
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.252,
+                0.441,
+                0.531,
+                0.466
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.045,
+                0.612,
+                0.554,
+                0.633
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.652,
+                0.665,
+                0.88,
+                0.694
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.022,
+                0.892,
+                0.052
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.042,
+                0.073,
+                0.699,
+                0.097
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.097,
+                0.507,
+                0.319
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>六角柄(電批尾)玻璃令梳--BEST</td></tr><tr><td>編號:</td><td>HEHS</td></tr><tr><td>規格:</td><td>6MM, 6.5MM, 7MM, 8MM,10MM.\n其他規格會陸續加入!!</td></tr><tr><td>打孔:</td><td>麻石, 雲石, 玻璃, 瓷磚,人造石...</td></tr><tr><td colspan=\"2\">包裝:5/10支掛袋裝          (需加水打孔)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.591,
+                0.117,
+                0.903,
+                0.164
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.534,
+                0.176,
+                0.728,
+                0.293
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.735,
+                0.194,
+                0.957,
+                0.293
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.531,
+                0.296,
+                0.911,
+                0.316
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.027,
+                0.355,
+                0.826,
+                0.379
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.379,
+                0.507,
+                0.68
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>電鍍玻璃令梳--專業型 &quot;BEST&quot;</td></tr><tr><td>編號:</td><td>EHS</td></tr><tr><td>規格:</td><td>3,4,5,6,6.5,7,8,10,12,13,14,15,16,\n18,20,22,23,24,25,26,28,30,32,35,\n38,40,42,45,48,50,53,55,60,65,70,\n75,80,85,90,95,100,105,110,115,\n120,125,130,140,150,160,180,200...</td></tr><tr><td>打孔:</td><td>麻石,雲石,玻璃,瓷磚,人造石...</td></tr><tr><td>包裝:</td><td>獨立掛袋包裝!!        (需加水打孔)</td></tr><tr><td></td><td>3/8&quot;(10MM)電鑰或電批上使用</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.543,
+                0.385,
+                0.938,
+                0.532
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.546,
+                0.534,
+                0.683,
+                0.694
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.718,
+                0.537,
+                0.941,
+                0.655
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.756,
+                0.656,
+                0.905,
+                0.671
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.716,
+                0.679,
+                0.919,
+                0.695
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.027,
+                0.716,
+                0.433,
+                0.741
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.742,
+                0.506,
+                0.926
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>麻石/雲石抛光碟--專業型&quot;SUPER&quot;</td></tr><tr><td>編號:</td><td>PP4S</td></tr><tr><td>規格:</td><td>4&quot;(100x3mm)</td></tr><tr><td rowspan=\"3\">號數:</td><td>#50,#100,#150,#200,#300,#400,#500,</td></tr><tr><td>#800,#1000,#1500,#2000,#3000,</td></tr><tr><td>#10000(黑材料),#10000(白材料)</td></tr><tr><td>打磨:</td><td>麻石/雲石/人造石抛光（需加水打磨）</td></tr><tr><td>包裝:</td><td>10片/白紙盒</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.55,
+                0.739,
+                0.919,
+                0.9
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.589,
+                0.904,
+                0.866,
+                0.923
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.505,
+                0.941,
+                0.57,
+                0.955
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.026,
+                0.713,
+                0.44,
+                0.747
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.718,
+                0.68,
+                0.918,
+                0.694
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.533,
+                0.296,
+                0.909,
+                0.316
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.502,
+                0.938,
+                0.573,
+                0.958
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.02,
+                0.895,
+                0.053
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.03,
+                0.355,
+                0.575,
+                0.379
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.597,
+                0.352,
+                0.825,
+                0.379
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.04,
+                0.07,
+                0.703,
+                0.1
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.756,
+                0.656,
+                0.906,
+                0.672
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.591,
+                0.904,
+                0.867,
+                0.923
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.113,
+                0.02,
+                0.883,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.11,
+                0.077,
+                0.592,
+                0.107
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.059,
+                0.115,
+                0.406,
+                0.354
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.434,
+                0.116,
+                0.773,
+                0.353
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.802,
+                0.116,
+                0.959,
+                0.363
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.077,
+                0.355,
+                0.437,
+                0.375
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.384,
+                0.611,
+                0.499
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>12V鋰電雙速電批(10MM)</td></tr><tr><td>編號:</td><td>LD12V-SET</td></tr><tr><td>配件:</td><td>2粒鋰電池, 1個充電器, 塑盒.</td></tr><tr><td>包裝:</td><td>12套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.684,
+                0.369,
+                0.89,
+                0.413
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.657,
+                0.427,
+                0.929,
+                0.469
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.11,
+                0.543,
+                0.628,
+                0.573
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.046,
+                0.578,
+                0.407,
+                0.811
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.425,
+                0.578,
+                0.763,
+                0.812
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.802,
+                0.574,
+                0.955,
+                0.662
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.805,
+                0.665,
+                0.952,
+                0.819
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.816,
+                0.437,
+                0.837
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.842,
+                0.61,
+                0.957
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>16.8V鋰電雙速電批(10MM)</td></tr><tr><td>編號:</td><td>LD16V-SET</td></tr><tr><td>配件:</td><td>2粒鋰電池, 1個充電器, 塑盒。</td></tr><tr><td>包裝:</td><td>12套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.692,
+                0.823,
+                0.898,
+                0.867
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.657,
+                0.889,
+                0.929,
+                0.931
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.372,
+                0.969,
+                0.438,
+                0.985
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.078,
+                0.354,
+                0.44,
+                0.376
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.077,
+                0.816,
+                0.44,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.371,
+                0.967,
+                0.443,
+                0.987
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.114,
+                0.019,
+                0.888,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.075,
+                0.594,
+                0.109
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.541,
+                0.632,
+                0.574
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.677,
+                0.367,
+                0.884,
+                0.41
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.684,
+                0.822,
+                0.87,
+                0.864
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.66,
+                0.428,
+                0.93,
+                0.444
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.721,
+                0.453,
+                0.883,
+                0.469
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.66,
+                0.89,
+                0.93,
+                0.906
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.721,
+                0.914,
+                0.883,
+                0.931
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.035,
+                0.021,
+                0.604,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.03,
+                0.07,
+                0.655,
+                0.095
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.036,
+                0.113,
+                0.581,
+                0.141
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.026,
+                0.148,
+                0.576,
+                0.255
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電雙速電批(13MM)</td></tr><tr><td>編號:</td><td>LD20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.05,
+                0.262,
+                0.26,
+                0.393
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.307,
+                0.291,
+                0.44,
+                0.394
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.477,
+                0.262,
+                0.637,
+                0.397
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.664,
+                0.02,
+                0.797,
+                0.149
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.801,
+                0.021,
+                0.929,
+                0.148
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.669,
+                0.155,
+                0.936,
+                0.41
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.045,
+                0.415,
+                0.761,
+                0.442
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.026,
+                0.453,
+                0.576,
+                0.54
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電衝擊起子批(1/4&quot;)</td></tr><tr><td>編號:</td><td>LS20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.05,
+                0.544,
+                0.263,
+                0.668
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.298,
+                0.562,
+                0.44,
+                0.671
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.475,
+                0.542,
+                0.614,
+                0.671
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.671,
+                0.451,
+                0.936,
+                0.681
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.045,
+                0.691,
+                0.691,
+                0.718
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.026,
+                0.72,
+                0.576,
+                0.818
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電衝擊扳手(1/2&quot;)</td></tr><tr><td>編號:</td><td>LW20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.05,
+                0.828,
+                0.279,
+                0.959
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.318,
+                0.846,
+                0.47,
+                0.955
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.496,
+                0.823,
+                0.642,
+                0.958
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.675,
+                0.717,
+                0.936,
+                0.962
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.508,
+                0.959,
+                0.571,
+                0.974
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.504,
+                0.956,
+                0.577,
+                0.976
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.044,
+                0.689,
+                0.681,
+                0.72
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.02,
+                0.609,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.032,
+                0.071,
+                0.657,
+                0.095
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.034,
+                0.111,
+                0.572,
+                0.143
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.044,
+                0.412,
+                0.765,
+                0.445
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.102,
+                0.022,
+                0.671,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.052,
+                0.072,
+                0.885,
+                0.102
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.023,
+                0.121,
+                0.73,
+                0.148
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.161,
+                0.526,
+                0.349
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池起子批(1/4&quot;)(淨機)</td></tr><tr><td>編號:</td><td>LS21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>扭力:</td><td>約380N.m</td></tr><tr><td>包裝:</td><td>獨立彩盒包裝,每箱10部.</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.543,
+                0.158,
+                0.759,
+                0.377
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.78,
+                0.13,
+                0.965,
+                0.28
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.78,
+                0.283,
+                0.967,
+                0.384
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.023,
+                0.396,
+                0.687,
+                0.422
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.438,
+                0.526,
+                0.578
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池扳手(1/2&quot;)(淨機)</td></tr><tr><td>編號:</td><td>LW21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>扭力:</td><td>約280N.m</td></tr><tr><td>包裝:</td><td>獨立彩盒包裝,每箱10部.</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.422,
+                0.766,
+                0.654
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.782,
+                0.402,
+                0.967,
+                0.575
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.781,
+                0.581,
+                0.971,
+                0.68
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.023,
+                0.662,
+                0.643,
+                0.688
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.703,
+                0.526,
+                0.843
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池4&quot;磨機(淨機)</td></tr><tr><td>編號:</td><td>LG21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>回轉數:</td><td>9,000R/Min (幼柄)</td></tr><tr><td>錫片直徑</td><td>4&quot;(105mm)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.537,
+                0.693,
+                0.752,
+                0.962
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.771,
+                0.693,
+                0.975,
+                0.963
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.524,
+                0.967,
+                0.59,
+                0.982
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.053,
+                0.071,
+                0.888,
+                0.103
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.521,
+                0.964,
+                0.594,
+                0.984
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.393,
+                0.69,
+                0.425
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.101,
+                0.018,
+                0.678,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.659,
+                0.646,
+                0.691
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.118,
+                0.732,
+                0.151
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.027,
+                0.685,
+                0.063
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.132,
+                0.078,
+                0.661,
+                0.111
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.115,
+                0.511,
+                0.266
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>21V鋰電池高壓水槍</td></tr><tr><td>編號:</td><td>WG21V-SET</td></tr><tr><td>配件:</td><td>鋰電池, 充電器, 加長杆, 水喉各1, 塑箱裝.</td></tr><tr><td>用途:</td><td>清洗汽車, 電單車, 冷氣, 外墻, 天台花園…</td></tr><tr><td>包裝:</td><td>4套/紙箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.029,
+                0.308,
+                0.498,
+                0.339
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.107,
+                0.368,
+                0.414,
+                0.386
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.166,
+                0.391,
+                0.351,
+                0.41
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.52,
+                0.115,
+                0.971,
+                0.38
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.125,
+                0.446,
+                0.695,
+                0.466
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.51,
+                0.293,
+                0.664
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.674,
+                0.457,
+                0.694
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.696,
+                0.358,
+                0.713
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.506,
+                0.485,
+                0.895,
+                0.683
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.429,
+                0.718,
+                0.602,
+                0.744
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.05,
+                0.788,
+                0.934,
+                0.82
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.511,
+                0.956,
+                0.577,
+                0.971
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.053,
+                0.673,
+                0.459,
+                0.695
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.167,
+                0.391,
+                0.353,
+                0.41
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.429,
+                0.717,
+                0.605,
+                0.747
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.029,
+                0.306,
+                0.502,
+                0.341
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.508,
+                0.954,
+                0.581,
+                0.974
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.11,
+                0.37,
+                0.417,
+                0.386
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.106,
+                0.695,
+                0.36,
+                0.715
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.115,
+                0.026,
+                0.688,
+                0.065
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.129,
+                0.447,
+                0.693,
+                0.467
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.128,
+                0.077,
+                0.666,
+                0.113
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.051,
+                0.787,
+                0.937,
+                0.822
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.153,
+                0.021,
+                0.743,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.025,
+                0.083,
+                0.623,
+                0.11
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.12,
+                0.55,
+                0.202
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>7.2V--21V紅M代用鋰電池充電器</td></tr><tr><td>編號:</td><td>CH18V-MKT</td></tr><tr><td>代用:</td><td>與紅M鋰電池通用(輸入:100V--260V-AC)</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.041,
+                0.211,
+                0.5,
+                0.234
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.664,
+                0.062,
+                0.911,
+                0.234
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.035,
+                0.261,
+                0.339,
+                0.287
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.289,
+                0.55,
+                0.384
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>紅M--18V代用鈰電池5.0Ah</td></tr><tr><td>編號:</td><td>LB18V-MKT</td></tr><tr><td>包裝:</td><td>10個/內箱</td></tr><tr><td>代用:</td><td>代用於所有紅M18V的鋰電產品&amp;充電器</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.051,
+                0.39,
+                0.206,
+                0.537
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.236,
+                0.392,
+                0.407,
+                0.537
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.434,
+                0.404,
+                0.605,
+                0.537
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.041,
+                0.548,
+                0.577,
+                0.573
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.632,
+                0.257,
+                0.928,
+                0.408
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.698,
+                0.41,
+                0.877,
+                0.433
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.714,
+                0.44,
+                0.847,
+                0.457
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.687,
+                0.459,
+                0.903,
+                0.559
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.027,
+                0.594,
+                0.728,
+                0.62
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.626,
+                0.549,
+                0.712
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>18V鋰電池轉換器(得偉轉紅M)</td></tr><tr><td>編號:</td><td>18VDS-D-M</td></tr><tr><td>包裝:</td><td>10套/紙盒 （附帶USB充電功能）</td></tr><tr><td>轉換:</td><td>得偉鋰電池-----轉-----牧田(紅M)機用</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.034,
+                0.72,
+                0.22,
+                0.918
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.055,
+                0.924,
+                0.201,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.236,
+                0.72,
+                0.404,
+                0.918
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.34,
+                0.924,
+                0.484,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.421,
+                0.72,
+                0.592,
+                0.917
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.616,
+                0.63,
+                0.917,
+                0.785
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.653,
+                0.798,
+                0.868,
+                0.815
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.661,
+                0.818,
+                0.862,
+                0.921
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.737,
+                0.925,
+                0.8,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.549,
+                0.945,
+                0.616,
+                0.96
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.697,
+                0.409,
+                0.877,
+                0.434
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.042,
+                0.21,
+                0.5,
+                0.237
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.714,
+                0.441,
+                0.849,
+                0.458
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.732,
+                0.921,
+                0.805,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.546,
+                0.942,
+                0.619,
+                0.962
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.034,
+                0.26,
+                0.34,
+                0.29
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.653,
+                0.798,
+                0.871,
+                0.816
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.057,
+                0.925,
+                0.201,
+                0.941
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.339,
+                0.924,
+                0.487,
+                0.942
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.019,
+                0.746,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.08,
+                0.624,
+                0.113
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.547,
+                0.579,
+                0.574
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.591,
+                0.73,
+                0.624
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.124,
+                0.021,
+                0.713,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.044,
+                0.076,
+                0.414,
+                0.101
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.103,
+                0.571,
+                0.226
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>得偉18V代用鈯電池4.0Ah</td></tr><tr><td>編號:</td><td>LB18V-DW</td></tr><tr><td>包裝:</td><td>10個/內箱</td></tr><tr><td>代用:</td><td>代用於所有得偉18V的鈯電產品&amp;充電器</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.236,
+                0.281,
+                0.412
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.358,
+                0.253,
+                0.563,
+                0.41
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.594,
+                0.101,
+                0.931,
+                0.289
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.672,
+                0.303,
+                0.848,
+                0.326
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.694,
+                0.332,
+                0.828,
+                0.35
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.044,
+                0.417,
+                0.631,
+                0.443
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.049,
+                0.499,
+                0.687,
+                0.531
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.535,
+                0.571,
+                0.658
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>得偉18V代用鈰電池充電器</td></tr><tr><td>編號:</td><td>CH18V-DW</td></tr><tr><td>代用:</td><td>代用得偉18V鈰電池 (輸入:100V--240V-AC)</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.043,
+                0.709,
+                0.554,
+                0.735
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.596,
+                0.534,
+                0.936,
+                0.729
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.5,
+                0.964,
+                0.567,
+                0.98
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.672,
+                0.302,
+                0.848,
+                0.327
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.043,
+                0.075,
+                0.417,
+                0.103
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.498,
+                0.962,
+                0.57,
+                0.982
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.044,
+                0.707,
+                0.559,
+                0.738
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.047,
+                0.495,
+                0.693,
+                0.536
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.694,
+                0.333,
+                0.828,
+                0.35
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.123,
+                0.018,
+                0.717,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.042,
+                0.415,
+                0.632,
+                0.445
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.126,
+                0.019,
+                0.843,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.037,
+                0.057,
+                0.723,
+                0.09
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.122,
+                0.094,
+                0.294,
+                0.119
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.123,
+                0.492,
+                0.235
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;磨機(220V)(側開,幼柄)</td></tr><tr><td>編號:</td><td>GD220V-SET</td></tr><tr><td>回轉數:</td><td>0-12000R/Min</td></tr><tr><td>電壓:</td><td>220V-50HZ</td></tr><tr><td>包裝/功率:</td><td>12套/箱 750W</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.122,
+                0.236,
+                0.294,
+                0.26
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.264,
+                0.492,
+                0.376
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;磨機(110V)(側開,幼柄)</td></tr><tr><td>編號:</td><td>GD110V-SET</td></tr><tr><td>回轉數:</td><td>0-12000R/Min</td></tr><tr><td>電壓:</td><td>110V-50HZ</td></tr><tr><td>包裝/功率:</td><td>12套/箱 750W</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.114,
+                0.379,
+                0.324,
+                0.485
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.497,
+                0.121,
+                0.735,
+                0.379
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.529,
+                0.382,
+                0.663,
+                0.407
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.562,
+                0.432,
+                0.631,
+                0.457
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.737,
+                0.123,
+                0.971,
+                0.38
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.839,
+                0.383,
+                0.907,
+                0.406
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.823,
+                0.433,
+                0.925,
+                0.457
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.035,
+                0.504,
+                0.829,
+                0.54
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.123,
+                0.551,
+                0.297,
+                0.577
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.58,
+                0.492,
+                0.702
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;石材切割機 (220V)</td></tr><tr><td>編號:</td><td>MC220V-SET</td></tr><tr><td>回轉數:</td><td>1100R/Min, 最大切割深度34MM,</td></tr><tr><td>電壓:</td><td>220V-50HZ</td></tr><tr><td>包裝/功率:</td><td>6套/紙箱 1200W</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.123,
+                0.706,
+                0.297,
+                0.731
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.735,
+                0.492,
+                0.851
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;石材切割機 (110V)</td></tr><tr><td>編號:</td><td>MC110V-SET</td></tr><tr><td>回轉數:</td><td>1100R/Min, 最大切割深度34MM,</td></tr><tr><td>電壓:</td><td>110V-50HZ</td></tr><tr><td>包裝/功率:</td><td>6套/紙箱 1200W</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.116,
+                0.854,
+                0.351,
+                0.972
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.547,
+                0.934,
+                0.751
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.655,
+                0.762,
+                0.724,
+                0.784
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.575,
+                0.79,
+                0.934,
+                0.962
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.492,
+                0.964,
+                0.558,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.122,
+                0.092,
+                0.295,
+                0.122
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.122,
+                0.234,
+                0.295,
+                0.265
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.122,
+                0.55,
+                0.299,
+                0.58
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.121,
+                0.704,
+                0.299,
+                0.735
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.819,
+                0.431,
+                0.929,
+                0.46
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.559,
+                0.432,
+                0.634,
+                0.46
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.836,
+                0.379,
+                0.912,
+                0.411
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.652,
+                0.76,
+                0.728,
+                0.788
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.489,
+                0.962,
+                0.562,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.033,
+                0.503,
+                0.661,
+                0.541
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.663,
+                0.504,
+                0.832,
+                0.54
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.526,
+                0.381,
+                0.666,
+                0.41
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.123,
+                0.017,
+                0.844,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.031,
+                0.055,
+                0.726,
+                0.093
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.136,
+                0.021,
+                0.803,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.025,
+                0.079,
+                0.704,
+                0.107
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.109,
+                0.474,
+                0.289
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>攪拌機--220V電壓</td></tr><tr><td>編號:</td><td>BD220V-SET</td></tr><tr><td>功率/轉速:</td><td>850W, 550R/Min</td></tr><tr><td>配件:</td><td>6&quot;攪拌碟, 22&quot; 杆, 碳刷各1</td></tr><tr><td>包裝/電壓:</td><td>7套/箱, 220V-50HZ</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.519,
+                0.11,
+                0.952,
+                0.318
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.027,
+                0.353,
+                0.704,
+                0.38
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.383,
+                0.474,
+                0.521
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>攪拌機--110V電壓</td></tr><tr><td>編號:</td><td>BD110V-SET</td></tr><tr><td>功率/轉速:</td><td>850W, 550R/Min</td></tr><tr><td>配件:</td><td>6&quot;攪拌碟, 22&quot; 杆, 碳刷各1</td></tr><tr><td>包裝/電壓:</td><td>7套/箱, 110V-50HZ</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.141,
+                0.527,
+                0.367,
+                0.658
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.384,
+                0.95,
+                0.585
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.079,
+                0.683,
+                0.392,
+                0.708
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.709,
+                0.474,
+                0.796
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>6&quot;攪拌碟</td></tr><tr><td>編號:</td><td>BD6</td></tr><tr><td>包裝:</td><td>10個/箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.512,
+                0.705,
+                0.722,
+                0.845
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.747,
+                0.705,
+                0.958,
+                0.846
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.851,
+                0.473,
+                0.941
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>22&quot;攪拌杆(杆粗:13MM)</td></tr><tr><td>編號:</td><td>BS22</td></tr><tr><td>包裝:</td><td>10支/箱        (M10&amp;M12)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.483,
+                0.876,
+                0.962,
+                0.928
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.472,
+                0.963,
+                0.537,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.469,
+                0.961,
+                0.542,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.682,
+                0.394,
+                0.711
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.133,
+                0.018,
+                0.807,
+                0.059
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.023,
+                0.077,
+                0.592,
+                0.108
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.594,
+                0.079,
+                0.704,
+                0.106
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.35,
+                0.592,
+                0.383
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.594,
+                0.351,
+                0.705,
+                0.381
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.033,
+                0.022,
+                0.892,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.051,
+                0.067,
+                0.279,
+                0.094
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.095,
+                0.496,
+                0.309
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>萬應寶震震機</td></tr><tr><td>編號:</td><td>FN-MAC</td></tr><tr><td>電壓:</td><td>220V-50Hz,</td></tr><tr><td>配件:</td><td>六角匙, 錾片, 介木片, 三角魔術貼托\n各1.三角魔術貼砂紙3張, 碳精1對</td></tr><tr><td>空載速度/功率:</td><td>15000-22000RPM 300W</td></tr><tr><td>包裝:</td><td>12套/箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.55,
+                0.094,
+                0.938,
+                0.403
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.03,
+                0.371,
+                0.351,
+                0.4
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.029,
+                0.413,
+                0.9,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.027,
+                0.546,
+                0.375,
+                0.599
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.408,
+                0.453,
+                0.954,
+                0.721
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.027,
+                0.748,
+                0.567,
+                0.776
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.023,
+                0.778,
+                0.219,
+                0.963
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號: BS-6801</td></tr><tr><td>額定功率: 1240W</td></tr><tr><td>額定轉速: \n12,000R/MIN</td></tr><tr><td>錫介石礫最大直徑:112MM</td></tr><tr><td>最大切割厚度:34MM</td></tr><tr><td>淨重: 3.1KG</td></tr><tr><td>電壓: 220V-50Hz</td></tr><tr><td>獨立彩盒包裝, 6部/箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.324,
+                0.816,
+                0.513,
+                0.924
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.347,
+                0.927,
+                0.489,
+                0.942
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.668,
+                0.754,
+                0.943,
+                0.946
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.425,
+                0.965,
+                0.49,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.03,
+                0.02,
+                0.897,
+                0.06
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.423,
+                0.962,
+                0.495,
+                0.982
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.028,
+                0.369,
+                0.36,
+                0.402
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.047,
+                0.064,
+                0.282,
+                0.098
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.346,
+                0.926,
+                0.492,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.021,
+                0.745,
+                0.57,
+                0.778
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.027,
+                0.412,
+                0.904,
+                0.441
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.545,
+                0.377,
+                0.572
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.028,
+                0.574,
+                0.329,
+                0.599
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.02,
+                0.823,
+                0.056
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.026,
+                0.062,
+                0.764,
+                0.093
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.024,
+                0.094,
+                0.406,
+                0.257
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號：BS-Z1Z-110B</td></tr><tr><td>額定功率：1,350W</td></tr><tr><td>額定轉速/電壓：1,050R/MIN，220V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在75MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：大陸牙</td></tr><tr><td>淨重：4.5KG</td></tr><tr><td>包裝：獨立塑膠盒包裝，4部/原紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.437,
+                0.136,
+                0.603,
+                0.25
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.636,
+                0.107,
+                0.941,
+                0.258
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.026,
+                0.294,
+                0.573,
+                0.323
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.023,
+                0.326,
+                0.406,
+                0.486
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號：BS-Z1Z-180T</td></tr><tr><td>額定功率：2,800W</td></tr><tr><td>額定轉速/電壓：1,200R/MIN，220V-50Hz</td></tr><tr><td>最大鑲孔直徑：（建議在125MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：12.5KG （單速）</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.445,
+                0.369,
+                0.724,
+                0.428
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.469,
+                0.459,
+                0.71,
+                0.484
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.806,
+                0.287,
+                0.931,
+                0.49
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.026,
+                0.518,
+                0.726,
+                0.548
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.023,
+                0.55,
+                0.405,
+                0.711
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號：BS-Z1Z-200M</td></tr><tr><td>額定功率：3,000W</td></tr><tr><td>額定轉速/電壓：520R/MIN，220V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在150MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：24KG</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.454,
+                0.598,
+                0.747,
+                0.664
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.454,
+                0.692,
+                0.579,
+                0.71
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.825,
+                0.514,
+                0.955,
+                0.714
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.026,
+                0.749,
+                0.705,
+                0.78
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.023,
+                0.785,
+                0.405,
+                0.945
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號：BS-Z1Z-254</td></tr><tr><td>額定功率：3,500W</td></tr><tr><td>額定轉速/電壓：350R/MIN，200V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在200MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：25.8KG</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.431,
+                0.837,
+                0.778,
+                0.923
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.536,
+                0.927,
+                0.659,
+                0.943
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.81,
+                0.736,
+                0.969,
+                0.948
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.404,
+                0.957,
+                0.468,
+                0.971
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.453,
+                0.691,
+                0.58,
+                0.711
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.535,
+                0.927,
+                0.661,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.401,
+                0.954,
+                0.472,
+                0.974
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.468,
+                0.458,
+                0.71,
+                0.485
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.021,
+                0.289,
+                0.575,
+                0.326
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.018,
+                0.823,
+                0.061
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.059,
+                0.764,
+                0.094
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.024,
+                0.515,
+                0.729,
+                0.55
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.027,
+                0.747,
+                0.707,
+                0.78
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.243,
+                0.02,
+                0.651,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.025,
+                0.056,
+                0.517,
+                0.082
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.083,
+                0.616,
+                0.115
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>產品規格</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.039,
+                0.127,
+                0.551,
+                0.146
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.147,
+                0.616,
+                0.226
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW3-MK</td><td>3&quot;雙網超薄拮礫1MM厚</td><td>76x1x10mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料.                    10MM內孔</td></tr><tr><td>包裝(膠筒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝．80片/盒．800片/箱．</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.039,
+                0.247,
+                0.176,
+                0.267
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.468,
+                0.251,
+                0.543,
+                0.267
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.268,
+                0.616,
+                0.351
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW4-MK</td><td>4&quot;雙網超薄拮礫1.2MM厚</td><td>107x1.2x16mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr><tr><td>包裝(膠筒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50或100片/膠筒.800片/彩色箱.</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.366,
+                0.176,
+                0.386
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.468,
+                0.369,
+                0.543,
+                0.386
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.387,
+                0.616,
+                0.468
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW5-MK</td><td>5&quot;雙網超薄拮碟1.2MM厚</td><td>125x1.2x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.500片/彩色箱.</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.479,
+                0.176,
+                0.498
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.468,
+                0.482,
+                0.543,
+                0.498
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.5,
+                0.616,
+                0.573
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW6-MK</td><td>6&quot;雙網超薄拮礫1.3MM厚</td><td>150x1.3x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.300片/彩色箱.</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.584,
+                0.176,
+                0.604
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.468,
+                0.588,
+                0.543,
+                0.604
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.605,
+                0.616,
+                0.664
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW7-MK</td><td>7&quot;雙網超薄拮碟1.5MM厚</td><td>180x1.5x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.200片/彩色箱.</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.68,
+                0.156,
+                0.699
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.477,
+                0.682,
+                0.532,
+                0.698
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.7,
+                0.616,
+                0.771
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>COW14-MK</td><td>14&quot; 括碟--3.0MM厚</td><td>355x3.0x25.4mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管...</td></tr><tr><td>包裝(外箱):</td><td colspan=\"2\">5片/收縮膜包裝. 30片/彩色箱.</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.671,
+                0.107,
+                0.96,
+                0.22
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.626,
+                0.244,
+                0.769,
+                0.305
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.625,
+                0.308,
+                0.772,
+                0.344
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.781,
+                0.227,
+                0.961,
+                0.343
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.777,
+                0.347,
+                0.963,
+                0.472
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.623,
+                0.416,
+                0.769,
+                0.47
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.622,
+                0.55,
+                0.762,
+                0.619
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.767,
+                0.475,
+                0.967,
+                0.619
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.749,
+                0.624,
+                0.969,
+                0.777
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.026,
+                0.816,
+                0.427,
+                0.843
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.848,
+                0.616,
+                0.957
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>內盒//原箱</td></tr><tr><td>COW4</td><td>4&quot;超薄拮碟1.2厚</td><td>100片/膠筒.800/箱</td></tr><tr><td>COW5</td><td>5&quot;拮碟</td><td>50片/內盒.500/箱</td></tr><tr><td>COW6</td><td>6&quot;拮碟</td><td>25片/內盒.200/箱</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料;角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.621,
+                0.821,
+                0.795,
+                0.95
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.801,
+                0.845,
+                0.972,
+                0.969
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.474,
+                0.967,
+                0.54,
+                0.982
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.239,
+                0.017,
+                0.652,
+                0.054
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.023,
+                0.814,
+                0.313,
+                0.846
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.32,
+                0.816,
+                0.43,
+                0.846
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.058,
+                0.678,
+                0.16,
+                0.701
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.466,
+                0.25,
+                0.546,
+                0.268
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.466,
+                0.369,
+                0.545,
+                0.387
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.466,
+                0.482,
+                0.546,
+                0.5
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.465,
+                0.587,
+                0.546,
+                0.606
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.471,
+                0.964,
+                0.544,
+                0.985
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.053,
+                0.516,
+                0.086
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.039,
+                0.126,
+                0.177,
+                0.148
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.195,
+                0.13,
+                0.552,
+                0.147
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.038,
+                0.246,
+                0.178,
+                0.269
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.038,
+                0.365,
+                0.178,
+                0.388
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.039,
+                0.478,
+                0.178,
+                0.5
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.039,
+                0.583,
+                0.178,
+                0.607
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.476,
+                0.682,
+                0.534,
+                0.699
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.232,
+                0.02,
+                0.685,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.041,
+                0.057,
+                0.454,
+                0.081
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.082,
+                0.493,
+                0.189
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;A級鷹嘜萬用碟(40齒)--專業型</td></tr><tr><td>編號:</td><td>MC4-40T</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管,薄鐵板</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.195,
+                0.493,
+                0.294
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;A級鷹鴨萬用碟(20齒)--專業型</td></tr><tr><td>編號:</td><td>MC4-20T</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管.薄鐵板</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.044,
+                0.313,
+                0.342,
+                0.335
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.337,
+                0.493,
+                0.436
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(20齒)--經濟型</td></tr><tr><td>編號:</td><td>MC4-20L</td></tr><tr><td>規格:</td><td>4&quot; (100 x 1.5 x 20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.044,
+                0.452,
+                0.343,
+                0.474
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.476,
+                0.493,
+                0.575
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(40齒)--通用型</td></tr><tr><td>編號:</td><td>MC4-40E</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠/銅喉管</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.588,
+                0.493,
+                0.687
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(20齒)---通用型</td></tr><tr><td>編號:</td><td>MC4-20E</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠/銅喉管</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.041,
+                0.695,
+                0.428,
+                0.718
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.72,
+                0.493,
+                0.818
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>6&quot;A級鷹鴨萬用碟(52齒)--專業型</td></tr><tr><td>編號:</td><td>MC6-52T</td></tr><tr><td>規格:</td><td>6&quot; (150x1.7x25.4(內孔)mm)-52T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管.薄鐵板</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.041,
+                0.837,
+                0.428,
+                0.861
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.862,
+                0.493,
+                0.962
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>7&quot;A級鷹鴨萬用碟(60齒)--專業型</td></tr><tr><td>編號:</td><td>MC7-60T</td></tr><tr><td>規格:</td><td>7&quot; (180x1.7x25.4(內孔)mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管,薄鐵板</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.505,
+                0.094,
+                0.736,
+                0.131
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.519,
+                0.133,
+                0.739,
+                0.322
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.781,
+                0.075,
+                0.909,
+                0.131
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.758,
+                0.133,
+                0.969,
+                0.322
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.631,
+                0.329,
+                0.848,
+                0.477
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.53,
+                0.487,
+                0.736,
+                0.678
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.762,
+                0.489,
+                0.967,
+                0.677
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.495,
+                0.7,
+                0.726,
+                0.74
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.508,
+                0.742,
+                0.731,
+                0.951
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.795,
+                0.702,
+                0.921,
+                0.762
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.752,
+                0.764,
+                0.971,
+                0.973
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.424,
+                0.969,
+                0.49,
+                0.983
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.056,
+                0.455,
+                0.083
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.23,
+                0.018,
+                0.686,
+                0.055
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.694,
+                0.432,
+                0.72
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.836,
+                0.432,
+                0.864
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.421,
+                0.966,
+                0.494,
+                0.985
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.044,
+                0.311,
+                0.268,
+                0.339
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.31,
+                0.311,
+                0.348,
+                0.337
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.042,
+                0.451,
+                0.269,
+                0.478
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.31,
+                0.45,
+                0.348,
+                0.477
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.506,
+                0.095,
+                0.738,
+                0.11
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.544,
+                0.115,
+                0.686,
+                0.133
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.495,
+                0.701,
+                0.727,
+                0.717
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.545,
+                0.723,
+                0.687,
+                0.741
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.186,
+                0.017,
+                0.843,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.036,
+                0.057,
+                0.255,
+                0.202
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.283,
+                0.059,
+                0.499,
+                0.201
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.53,
+                0.059,
+                0.728,
+                0.204
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.756,
+                0.059,
+                0.955,
+                0.204
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.026,
+                0.214,
+                0.948,
+                0.239
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.062,
+                0.258,
+                0.141,
+                0.278
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.221,
+                0.257,
+                0.467,
+                0.279
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.28,
+                0.509,
+                0.386
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>5-3/8&quot; (136MM)錫木碟(24齒)</td></tr><tr><td>編號:</td><td>MC5.3W-24</td></tr><tr><td>規格:</td><td>5-3/8&quot; (136x1.5x20(內孔)-24T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.062,
+                0.405,
+                0.141,
+                0.424
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.221,
+                0.404,
+                0.467,
+                0.426
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.426,
+                0.508,
+                0.523
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>6-1/2&quot; (165MM)錫木碟(40齒)</td></tr><tr><td>編號:</td><td>MC6.5W-40</td></tr><tr><td>規格:</td><td>6-1/2&quot; (165x1.6x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.562,
+                0.285,
+                0.653,
+                0.308
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.517,
+                0.308,
+                0.738,
+                0.515
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.79,
+                0.248,
+                0.917,
+                0.307
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.747,
+                0.308,
+                0.971,
+                0.516
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.042,
+                0.542,
+                0.175,
+                0.563
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.221,
+                0.542,
+                0.467,
+                0.563
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.564,
+                0.508,
+                0.655
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>5-3/8&quot; (136MM)錫薄金屬碟(30齒)</td></tr><tr><td>編號:</td><td>MC5.3M-30</td></tr><tr><td>規格:</td><td>5-3/8&quot; (136x1.4x20(內孔)-30T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.042,
+                0.673,
+                0.175,
+                0.694
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.221,
+                0.673,
+                0.467,
+                0.695
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.695,
+                0.508,
+                0.803
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>6-1/2&quot; (165MM)錳薄金屬碟(40齒)</td></tr><tr><td>編號:</td><td>MC6.5M-40</td></tr><tr><td>規格:</td><td>6-1/2&quot; (165x1.4x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.562,
+                0.566,
+                0.653,
+                0.589
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.515,
+                0.591,
+                0.735,
+                0.798
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.791,
+                0.528,
+                0.914,
+                0.588
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.745,
+                0.59,
+                0.971,
+                0.801
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.036,
+                0.841,
+                0.167,
+                0.861
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.244,
+                0.84,
+                0.443,
+                0.861
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.022,
+                0.862,
+                0.508,
+                0.948
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot; (110MM)雙面錳木碟(40齒)</td></tr><tr><td>編號:</td><td>TS4W-D40T</td></tr><tr><td>規格:</td><td>4&quot; (110x1.8x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>20片/盒, 200片/箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.546,
+                0.804,
+                0.726,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.755,
+                0.906,
+                0.916,
+                0.927
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.441,
+                0.97,
+                0.506,
+                0.984
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.243,
+                0.839,
+                0.446,
+                0.862
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.541,
+                0.178,
+                0.564
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.041,
+                0.672,
+                0.178,
+                0.695
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.84,
+                0.169,
+                0.862
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.059,
+                0.257,
+                0.144,
+                0.28
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.059,
+                0.403,
+                0.144,
+                0.427
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.559,
+                0.283,
+                0.658,
+                0.311
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.56,
+                0.565,
+                0.657,
+                0.592
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.438,
+                0.967,
+                0.511,
+                0.987
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.221,
+                0.257,
+                0.469,
+                0.279
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.22,
+                0.403,
+                0.469,
+                0.426
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.221,
+                0.541,
+                0.469,
+                0.563
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.221,
+                0.673,
+                0.469,
+                0.695
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.184,
+                0.015,
+                0.845,
+                0.052
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.755,
+                0.906,
+                0.917,
+                0.928
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.212,
+                0.949,
+                0.24
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.196,
+                0.02,
+                0.804,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.039,
+                0.059,
+                0.141,
+                0.083
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.248,
+                0.058,
+                0.364,
+                0.081
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.665,
+                0.062,
+                0.747,
+                0.079
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.084,
+                0.466,
+                0.181
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;木錫碟(30齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS4WC-30T</td></tr><tr><td>規格:</td><td>4&quot; (110×20(內孔)16mm)-30T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.04,
+                0.185,
+                0.141,
+                0.209
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.248,
+                0.184,
+                0.362,
+                0.207
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.21,
+                0.466,
+                0.307
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>4&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS4WC-40T</td></tr><tr><td>規格:</td><td>4&quot; (110×20(內孔)16mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.475,
+                0.087,
+                0.709,
+                0.29
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.72,
+                0.087,
+                0.972,
+                0.297
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.027,
+                0.344,
+                0.138,
+                0.364
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.181,
+                0.32,
+                0.346,
+                0.417
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.389,
+                0.319,
+                0.545,
+                0.416
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.587,
+                0.321,
+                0.743,
+                0.417
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.786,
+                0.321,
+                0.943,
+                0.419
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.039,
+                0.433,
+                0.141,
+                0.457
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.249,
+                0.433,
+                0.362,
+                0.455
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.459,
+                0.466,
+                0.555
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>7&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS7WC-40T</td></tr><tr><td>規格:</td><td>7&quot; (180 x 25.4(內孔)/20mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.039,
+                0.559,
+                0.141,
+                0.583
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.25,
+                0.559,
+                0.362,
+                0.581
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.585,
+                0.466,
+                0.681
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>7&quot;木錳碟(60齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS7WC-60T</td></tr><tr><td>規格:</td><td>7&quot; (180 x 25.4(內孔)/20mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.665,
+                0.437,
+                0.747,
+                0.453
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.487,
+                0.463,
+                0.716,
+                0.676
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.732,
+                0.463,
+                0.967,
+                0.676
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.039,
+                0.706,
+                0.141,
+                0.73
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.248,
+                0.705,
+                0.362,
+                0.728
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.732,
+                0.466,
+                0.828
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>9&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS9WC-40T</td></tr><tr><td>規格:</td><td>9&quot; (230 x 25.4(內孔)/20mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.04,
+                0.833,
+                0.141,
+                0.856
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.249,
+                0.832,
+                0.362,
+                0.854
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.858,
+                0.466,
+                0.954
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名稱:</td><td>9&quot;木錳碟(60齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS9WC-60T</td></tr><tr><td>規格:</td><td>9&quot; (230 x 25.4(內孔)/20mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.665,
+                0.7,
+                0.747,
+                0.716
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.481,
+                0.728,
+                0.724,
+                0.953
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.734,
+                0.728,
+                0.972,
+                0.954
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.465,
+                0.964,
+                0.531,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.057,
+                0.144,
+                0.087
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.245,
+                0.056,
+                0.367,
+                0.085
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.182,
+                0.146,
+                0.213
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.247,
+                0.183,
+                0.366,
+                0.21
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.028,
+                0.344,
+                0.143,
+                0.365
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.431,
+                0.144,
+                0.461
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.248,
+                0.431,
+                0.366,
+                0.459
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.557,
+                0.145,
+                0.587
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.248,
+                0.556,
+                0.366,
+                0.586
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.036,
+                0.704,
+                0.144,
+                0.734
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.244,
+                0.703,
+                0.366,
+                0.732
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.035,
+                0.83,
+                0.146,
+                0.861
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.244,
+                0.828,
+                0.368,
+                0.859
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.664,
+                0.062,
+                0.75,
+                0.08
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.664,
+                0.436,
+                0.75,
+                0.455
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.664,
+                0.698,
+                0.75,
+                0.718
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.461,
+                0.962,
+                0.534,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.193,
+                0.017,
+                0.81,
+                0.055
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.116,
+                0.02,
+                0.873,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.027,
+                0.06,
+                0.146,
+                0.086
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.347,
+                0.06,
+                0.563,
+                0.084
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.183,
+                0.092,
+                0.314,
+                0.113
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.118,
+                0.726,
+                0.57
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>TS4W-30T</td><td>4&quot;錳木碟--30齒</td><td>4&quot;(110x2.2x30Tx20mm(16mm)</td></tr><tr><td>TS4W-40T</td><td>4&quot;錳木碟--40齒</td><td>4&quot;(110x2.2x30Tx20mm(16mm)</td></tr><tr><td>TS6W-40T</td><td>6&quot;錳木碟--40齒</td><td>6&quot;(150x2.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS6W-60T</td><td>6&quot;錳木碟--60齒</td><td>6&quot;(150x2.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS7W-40T</td><td>7&quot;錳木碟--40齒</td><td>7&quot;(180x2.2x40Tx20/25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS7W-60T</td><td>7&quot;錳木碟--60齒</td><td>7&quot;(180x2.2x60Tx20/25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS8W-40T</td><td>8&quot;錳木碟--40齒</td><td>8&quot;(200x2.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS8W-60T</td><td>8&quot;錳木碟--60齒</td><td>8&quot;(200x2.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9W-40T</td><td>9&quot;錳木碟--40齒</td><td>9&quot;(230x3.0x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9W-60T</td><td>9&quot;錳木碟--60齒</td><td>9&quot;(230x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-40T</td><td>10&quot;錳木碟--40齒</td><td>10&quot;(250x3.0x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-60T</td><td>10&quot;錳木碟--60齒</td><td>10&quot;(250x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-80T</td><td>10&quot;錳木碟--80齒</td><td>10&quot;(250x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12W-60T</td><td>12&quot;錳木碟--60齒</td><td>12&quot;(300x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12W-80T</td><td>12&quot;錳木碟--80齒</td><td>12&quot;(300x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14W-60T</td><td>14&quot;錳木碟--60齒</td><td>14&quot;(350x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14W-80T</td><td>14&quot;錳木碟--80齒</td><td>14&quot;(350x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.743,
+                0.124,
+                0.945,
+                0.253
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.731,
+                0.261,
+                0.964,
+                0.41
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.734,
+                0.42,
+                0.964,
+                0.569
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.027,
+                0.634,
+                0.213,
+                0.658
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.347,
+                0.636,
+                0.54,
+                0.656
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.225,
+                0.661,
+                0.337,
+                0.683
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.684,
+                0.726,
+                0.952
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>TS8A-100T</td><td>8&quot;鋁合金錳碟--100齒</td><td>8&quot;(200x2.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9A-100T</td><td>9&quot;鋁合金錳碟--100齒</td><td>9&quot;(230x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10A-100T</td><td>10&quot;鋁合金錳碟--100齒</td><td>10&quot;(250x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10A-120T</td><td>10&quot;鋁合金錳碟--120齒</td><td>10&quot;(250x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12A-100T</td><td>12&quot;鋁合金錳碟--100齒</td><td>12&quot;(300x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12A-120T</td><td>12&quot;鋁合金錳碟--120齒</td><td>12&quot;(300x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14A-100T</td><td>14&quot;鋁合金錳碟--100齒</td><td>14&quot;(350x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14A-120T</td><td>14&quot;鋁合金錳碟--120齒</td><td>14&quot;(350x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.731,
+                0.651,
+                0.96,
+                0.801
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.731,
+                0.806,
+                0.962,
+                0.957
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.502,
+                0.959,
+                0.568,
+                0.973
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.026,
+                0.633,
+                0.221,
+                0.661
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.348,
+                0.633,
+                0.541,
+                0.659
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.026,
+                0.059,
+                0.152,
+                0.088
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.183,
+                0.091,
+                0.319,
+                0.116
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.222,
+                0.659,
+                0.342,
+                0.687
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.499,
+                0.956,
+                0.573,
+                0.976
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.113,
+                0.015,
+                0.881,
+                0.056
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.35,
+                0.06,
+                0.559,
+                0.086
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.02,
+                0.873,
+                0.053
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.027,
+                0.072,
+                0.145,
+                0.096
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.368,
+                0.07,
+                0.478,
+                0.095
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.189,
+                0.107,
+                0.336,
+                0.13
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.416,
+                0.111,
+                0.692,
+                0.133
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.135,
+                0.703,
+                0.349
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>ATS10W-40T</td><td>10&quot;鎘木碟--40齒</td><td>10&quot;(250x3.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS12W-80T</td><td>12&quot;鎘木碟--80齒</td><td>12&quot;(300x3.2x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-40T</td><td>14&quot;鎘木碟--40齒</td><td>14&quot;(350x3.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-60T</td><td>14&quot;鎘木碟--60齒</td><td>14&quot;(350x3.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-80T</td><td>14&quot;鎘木碟--80齒</td><td>14&quot;(350x3.2x80Tx25.4mm(22.2&amp;20mm)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.708,
+                0.139,
+                0.947,
+                0.294
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.704,
+                0.306,
+                0.947,
+                0.461
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.027,
+                0.422,
+                0.213,
+                0.447
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.368,
+                0.42,
+                0.478,
+                0.445
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.238,
+                0.452,
+                0.349,
+                0.474
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.417,
+                0.454,
+                0.692,
+                0.475
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.476,
+                0.702,
+                0.636
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>ATS9A-100T</td><td>9&quot;鋁合金錫碟--100齒</td><td>9&quot;(230x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS12A-100T</td><td>12&quot;鋁合金錫碟--100齒</td><td>12&quot;(300x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14A-100T</td><td>14&quot;鋁合金錫碟--100齒</td><td>14&quot;(350x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.709,
+                0.478,
+                0.947,
+                0.631
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.497,
+                0.959,
+                0.562,
+                0.974
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.421,
+                0.221,
+                0.449
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.027,
+                0.07,
+                0.152,
+                0.1
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.366,
+                0.069,
+                0.481,
+                0.097
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.368,
+                0.419,
+                0.481,
+                0.447
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.236,
+                0.451,
+                0.354,
+                0.478
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.493,
+                0.957,
+                0.566,
+                0.977
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.112,
+                0.015,
+                0.881,
+                0.057
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.189,
+                0.106,
+                0.339,
+                0.133
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.417,
+                0.112,
+                0.695,
+                0.133
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.418,
+                0.455,
+                0.696,
+                0.476
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.141,
+                0.02,
+                0.726,
+                0.051
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.027,
+                0.054,
+                0.583,
+                0.083
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.136,
+                0.09,
+                0.465,
+                0.197
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.641,
+                0.061,
+                0.848,
+                0.089
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.093,
+                0.966,
+                0.196
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.2,
+                0.981,
+                0.284
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>長炮尖</td><td>扁炮鑿</td><td>短炮尖</td><td>18&quot;加長炮尖</td><td>18&quot;加長扁炮鑿</td></tr><tr><td>編號:</td><td>CS280</td><td>CS280F</td><td>CS210</td><td>CS450</td><td>CS450F</td></tr><tr><td>規格:</td><td>(17x280)mm</td><td>(17x280x25)mm</td><td>(17x200/210)mm</td><td>(17x450)mm</td><td>(17x450x25)mm</td></tr><tr><td>包裝:</td><td>原箱:60支</td><td>原箱:60支</td><td>原箱:100支</td><td>原箱:30支(膠筒裝)</td><td>原箱:30支(膠筒裝)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.036,
+                0.287,
+                0.586,
+                0.389
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.601,
+                0.312,
+                0.962,
+                0.336
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.634,
+                0.355,
+                0.922,
+                0.379
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.393,
+                0.601,
+                0.479
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>24&quot;加長炮尖</td><td>24&quot;加長扁炮擊</td><td>40&quot;加長炮尖</td></tr><tr><td>編號:</td><td>CS600</td><td>CS600F</td><td>CS1000</td></tr><tr><td>規格:</td><td>(17x600)mm</td><td>(17x600x25)mm</td><td>(17x1000)mm</td></tr><tr><td>包裝:</td><td>原箱:20支(膠筒裝)</td><td>原箱:20支(膠筒裝)</td><td>原箱:20支(膠筒裝)</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.026,
+                0.531,
+                0.189,
+                0.579
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.026,
+                0.582,
+                0.187,
+                0.599
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.194,
+                0.482,
+                0.498,
+                0.616
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.506,
+                0.485,
+                0.718,
+                0.615
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.727,
+                0.489,
+                0.971,
+                0.616
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.62,
+                0.981,
+                0.699
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>3&quot;扁炮鑿</td><td>2&quot;超薄扁炮鑿</td><td>2&quot;超薄短扁炮鑿</td><td>1-1/2&quot;超薄短扁炮鑿</td><td>四坑2&quot;超薄扁短炮鑿</td></tr><tr><td>編號:</td><td>CS280F75</td><td>CS280F50</td><td>CS210F50</td><td>CS210F38</td><td>CS180-F40</td></tr><tr><td>規格:</td><td>(17x280x75)mm</td><td>(17x280x50)mm</td><td>(17x210x50)mm</td><td>(17x210x38)mm</td><td>(14x180x43)mm</td></tr><tr><td>包裝:</td><td>原箱:50支(掛袋裝)</td><td>原箱:60支(掛袋裝)</td><td>原箱:80支(掛袋裝)</td><td>原箱:80支(掛袋裝)</td><td>20支/扎(掛袋裝)</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.028,
+                0.712,
+                0.724,
+                0.739
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.197,
+                0.741,
+                0.565,
+                0.865
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.658,
+                0.753,
+                0.917,
+                0.866
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.021,
+                0.87,
+                0.981,
+                0.949
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>產品名稱:</td><td>四坑炮尖</td><td>四坑扁炮盤</td><td>四坑2&quot; 扁炮盤</td><td>四坑短炮尖</td><td>四坑短扁炮盤</td></tr><tr><td>編號:</td><td>CS250</td><td>CS250F</td><td>CS250-F40</td><td>CS165</td><td>CS165F</td></tr><tr><td>規格:</td><td>(14x250)mm</td><td>(14x250x20)mm</td><td>(14x250x40)mm</td><td>(10x160)mm</td><td>(10x160x15)mm</td></tr><tr><td>包裝:</td><td>20支/扎(膠筒裝)</td><td>20支/扎(膠筒裝)</td><td>20支/扎(掛袋裝)</td><td>50支/扎(掛袋裝)</td><td>50支/扎(掛袋裝)</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.956,
+                0.558,
+                0.971
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.602,
+                0.312,
+                0.961,
+                0.336
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.489,
+                0.953,
+                0.562,
+                0.973
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.027,
+                0.582,
+                0.188,
+                0.599
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.635,
+                0.356,
+                0.921,
+                0.379
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.019,
+                0.726,
+                0.054
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.025,
+                0.053,
+                0.286,
+                0.084
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.326,
+                0.053,
+                0.579,
+                0.086
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.029,
+                0.71,
+                0.421,
+                0.74
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.465,
+                0.71,
+                0.723,
+                0.741
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]
