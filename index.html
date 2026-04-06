@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>香港工具電子目錄</title>
+  <link rel="stylesheet" href="catalog.css">
+</head>
+<body>
+  <div class="bg-shape bg-shape-1"></div>
+  <div class="bg-shape bg-shape-2"></div>
+
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="brand-kicker">HK TOOLS E-CATALOG</p>
+      <h1>香港工具有限公司 產品目錄</h1>
+      <p class="brand-subtitle">快速搜尋產品編號、材料用途與規格，支援靜態分享。</p>
+    </div>
+    <div class="company-meta">
+      <p>地址：香港荃灣沙咀道26-38號 匯力工業中心11樓26室</p>
+      <p>電話：852-2540 8908 / 852-2548 3406</p>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="篩選條件">
+      <section class="filter-panel">
+        <h2>搜尋</h2>
+        <label class="search-wrap" for="searchInput">
+          <input id="searchInput" type="search" placeholder="輸入產品名稱、編號、規格..." autocomplete="off">
+        </label>
+      </section>
+
+      <section class="filter-panel">
+        <h2>分類</h2>
+        <div id="categoryFilters" class="filter-group"></div>
+      </section>
+
+      <section class="filter-panel">
+        <h2>材料</h2>
+        <div id="materialFilters" class="filter-group"></div>
+      </section>
+
+      <section class="filter-panel">
+        <h2>用途</h2>
+        <div id="purposeFilters" class="filter-group"></div>
+      </section>
+
+      <div class="filter-actions">
+        <button id="clearFiltersBtn" type="button">清除全部篩選</button>
+      </div>
+    </aside>
+
+    <section class="catalog-content" aria-live="polite">
+      <div class="toolbar">
+        <p id="resultCount">載入中...</p>
+        <p id="metaInfo"></p>
+      </div>
+      <div id="productGrid" class="product-grid"></div>
+      <p id="emptyState" class="empty-state" hidden>找不到符合條件的產品，請調整篩選條件。</p>
+    </section>
+  </main>
+
+  <template id="productCardTemplate">
+    <article class="product-card">
+      <div class="product-image-wrap">
+        <img class="product-image" alt="">
+      </div>
+      <div class="product-main">
+        <p class="product-category"></p>
+        <h3 class="product-name"></h3>
+        <p class="product-code"></p>
+        <p class="product-specs"></p>
+        <div class="chip-row chip-materials"></div>
+        <div class="chip-row chip-purposes"></div>
+      </div>
+      <dl class="product-meta"></dl>
+    </article>
+  </template>
+
+  <!-- Product detail modal (hidden) -->
+  <div id="productModal" class="modal" aria-hidden="true" role="dialog" aria-modal="true" style="display:none;">
+    <div class="modal-backdrop" data-close="true"></div>
+    <div class="modal-panel" role="document">
+      <button class="modal-close" aria-label="關閉">&times;</button>
+      <div class="modal-body">
+        <div class="modal-image"><img alt="產品圖片"></div>
+        <div class="modal-info">
+          <h2 class="modal-name"></h2>
+          <p class="modal-code"></p>
+          <p class="modal-specs"></p>
+          <div class="chip-row modal-chips modal-materials"></div>
+          <div class="chip-row modal-chips modal-purposes"></div>
+          <dl class="modal-meta"></dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="catalog-data.js"></script>
+  <script src="catalog.js"></script>
+</body>
+</html>

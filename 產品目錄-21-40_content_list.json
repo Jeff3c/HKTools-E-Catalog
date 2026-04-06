@@ -1,0 +1,5166 @@
+[
+    {
+        "type": "text",
+        "text": "四坑/五坑油壓鑽用運水頭,各種鑽孔機轉接頭",
+        "text_level": 1,
+        "bbox": [
+            43,
+            20,
+            902,
+            52
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5aa699de245348d3df132787667b19cac6855f9002e7dbb483d9945bce26af4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            59,
+            315,
+            141
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/864d3403cd6cf2bf55ea8ba1c31710f6db035a90fce97b1f06b6c6e7115f18df.jpg",
+        "table_caption": [
+            "四坑運水頭(配在油壓鑽/電鑽上使用)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>油壓鑰用囉頭運水頭--油壓鑰/電鑰用</td></tr><tr><td>編號:</td><td>WS</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5 (1/2&quot; X20UNF)</td></tr></table>",
+        "bbox": [
+            21,
+            161,
+            482,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8c30f283bdceb4423d304a2ad416e9a9f2a825daed5e08b38666e6e668135ea.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            244,
+            349,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbbfd3eefbc05f9a486c456375989dadae6aa6a8239d99eea21c28d03a34d9af.jpg",
+        "table_caption": [
+            "四坑油壓鑽接杆"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>四坑油壓鑰用接杆</td></tr><tr><td>編號:</td><td>SDSM16x1.5</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5</td></tr></table>",
+        "bbox": [
+            21,
+            322,
+            482,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2af611e53737973b7fda7c118a97727945ccdab04c233655d27004e6ababca5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            390,
+            398,
+            481
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "產品名稱: 運水頭牙轉為大陸尖牙.(運水頭--大陸尖牙)",
+        "bbox": [
+            21,
+            483,
+            470,
+            502
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "編號: DS-W-C (四坑運水頭另計)",
+        "bbox": [
+            55,
+            506,
+            458,
+            521
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "規格: 運水頭牙 轉為 大陸尖牙(配油壓鑽用)",
+        "bbox": [
+            58,
+            525,
+            438,
+            539
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b0f2b8646aea50ced9d619c3c0279409a09fc521c7ca32613bffa8e13a7e54f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            613,
+            58,
+            902,
+            139
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef75b548bc311549cd3e66c671573a5a1bfdde03cd18aec178ef55c7801889d9.jpg",
+        "table_caption": [
+            "五坑運水頭(配在油壓鑽上使用)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>油壓鑰用囉頭運水頭--油壓鑰/電鑰用</td></tr><tr><td>編號:</td><td>WSM</td></tr><tr><td>規格:</td><td>螺紋:M16X1.5 (1/2&quot; X20UNF)</td></tr></table>",
+        "bbox": [
+            524,
+            161,
+            978,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0963acc036368d6da790f4643a47f08e9f61cc3bd7a26198b53465b1e1d51b9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            229,
+            779,
+            298
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd7e2dde061220d951fb7fc634cad62c4cbb716760780feb4c39d530497c4bcf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            794,
+            229,
+            957,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/333992615db6561e44b6011afc03144325f0a7292cdbe7b37758be04edc838f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            307,
+            771,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae4cd89b68bac2a6df01a0bb77510aa164b9d4775468546d3deeb3e53546b4f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            771,
+            315,
+            964,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7540dfff615996c7ec8f284180bd0d8aadfcbf50f877c28a7ca0d5af87cbb752.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            397,
+            788,
+            481
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b72dec9ec6b3e7fbff94304f941d25a89de34739335c7507c15303b5123d87b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            810,
+            407,
+            961,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "運水頭牙轉為日本方牙---(運水頭---日本方牙)",
+        "bbox": [
+            524,
+            483,
+            949,
+            502
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DS-W-J (四坑運水頭另計) ",
+        "bbox": [
+            539,
+            506,
+            957,
+            521
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "運水頭牙 轉為 日本1-1/4\"(UNC)方牙(配油壓鑽用)",
+        "bbox": [
+            541,
+            525,
+            968,
+            539
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a1ae41ecf2c24f325a041c8da24c9825f7cbf583864066831d79c55267a7e4f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            102,
+            554,
+            381,
+            623
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "產品名稱: 鑽孔機轉接頭--(美國機尖牙轉為日本機方牙)",
+        "bbox": [
+            21,
+            625,
+            470,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "編號: DS-A-J",
+        "bbox": [
+            55,
+            650,
+            169,
+            664
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "規格: 美國機1-1/4\"(A-Rod)尖牙 轉為日本機1-1/4\"(UNC)方牙",
+        "bbox": [
+            60,
+            668,
+            473,
+            682
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3bd87025a066266fdc466555c1bd929b1bce7184aa70a669eb12727c344178b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            524,
+            556,
+            811,
+            623
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1234093cb81914e4863c6e3da8f976c64846b374840726407606fa3a9b65c000.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            875,
+            541,
+            957,
+            621
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鑽孔機轉換接頭---(日本機方牙轉為美國機尖牙)",
+        "bbox": [
+            527,
+            627,
+            947,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DS-J-A ",
+        "bbox": [
+            527,
+            649,
+            591,
+            663
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日本機1-1/4\"(UNC)方牙 轉為 美機1-1/4\"(A-Rod)尖牙",
+        "bbox": [
+            527,
+            667,
+            961,
+            682
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cc6317ce518d4ded1fb67d62c42dca60af277d9fbdbda8d566ca86247cc2e37.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            686,
+            253,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/40ef96bf281df0879753bcc3535c375a65e2483f5c71911f30f25490c25642a7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            524,
+            687,
+            752,
+            762
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/085e8c1a6afdbfdc11f593ec1b0c12d6aab7aed5aec6f19ac8fe2093cf27b033.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            884,
+            683,
+            966,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "產品名稱: 鑽孔機轉換接頭---(大陸機尖牙轉為日本機方牙)",
+        "bbox": [
+            21,
+            765,
+            497,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "編號: DS-C-J",
+        "bbox": [
+            55,
+            789,
+            169,
+            802
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "規格: 大陸機尖牙 轉為日本機1-1/4\"(UNC)方牙",
+        "bbox": [
+            60,
+            806,
+            433,
+            821
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鑽孔機轉換接頭---(日本機方牙轉為大陸機尖牙)",
+        "bbox": [
+            527,
+            766,
+            947,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DS-J-C ",
+        "bbox": [
+            527,
+            788,
+            591,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日本機1-1/4\"(UNC)方牙轉為大陸機尖牙",
+        "bbox": [
+            529,
+            806,
+            850,
+            821
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/98c34671a78a280e4231afd4fa4f4a378d673d2b2f616e7f4705908240abcb0f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            827,
+            344,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "產品名稱: 鑽孔機轉換接頭---(美國機尖牙轉為大陸機尖牙)",
+        "bbox": [
+            21,
+            897,
+            497,
+            914
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "編號: DS-A-C",
+        "bbox": [
+            55,
+            919,
+            173,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "規格: 美國機1-1/4\"(A-Rod)尖牙 轉為大陸機尖牙",
+        "bbox": [
+            60,
+            936,
+            445,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d65c3bf2c89d05b0276e660043761dfa05d296ffae4b7a9438482e3373c037a4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            526,
+            826,
+            712,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ba07706561c02b85f375bd4348d8f0798119ae5811f123db3b4700d9d656dbc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            890,
+            821,
+            961,
+            892
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鑽孔機轉換接頭---(大陸機尖牙轉為美國機尖牙)",
+        "bbox": [
+            527,
+            897,
+            947,
+            914
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DS-C-A ",
+        "bbox": [
+            527,
+            917,
+            594,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大陸機尖牙轉為美國機1-1/4\"(A-Rod)尖牙",
+        "bbox": [
+            529,
+            936,
+            863,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 19 ",
+        "bbox": [
+            482,
+            961,
+            549,
+            976
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鑽孔機加長杆 & 集水器, 麻石/雲石令梳",
+        "text_level": 2,
+        "bbox": [
+            73,
+            22,
+            850,
+            52
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdfb6017b9c6cdfdce92859f51c895e8059c48eee620669943f0f8840a4ab292.jpg",
+        "table_caption": [
+            "鑽孔機加長杆 (配在鑽孔機上使用)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆8&quot;長</td></tr><tr><td>編號:</td><td>DS200</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長245MM-外螺紋長45MM</td></tr></table>",
+        "bbox": [
+            26,
+            96,
+            557,
+            185
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b43ba1bff609902f81e84bea2ab134c76b5b52b67b9ed342e7ade4933a3330d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆12&quot;長</td></tr><tr><td>編號:</td><td>DS300</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長345MM-外螺紋長45MM</td></tr></table>",
+        "bbox": [
+            26,
+            199,
+            557,
+            287
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e12bc4a16ea8ac44c7c9262681d233aa4e820fcd9bf7854351f0e7d167c731fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>鑽孔機加長杆16&quot;長</td></tr><tr><td>編號:</td><td>DS400</td></tr><tr><td>規格:</td><td>內&amp;外螺紋:1-1/4UNC(1&quot;三方牙)</td></tr><tr><td></td><td>全長445MM-外螺紋長45MM</td></tr></table>",
+        "bbox": [
+            26,
+            302,
+            557,
+            390
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/727a08307ea0b2a04ba251b606204bc3bb0851b59be10ffc46b4bca3529ed122.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            635,
+            78,
+            890,
+            406
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3200e52da175628a4f1448d7c10be4fdfb70afeabbc3bc3136086ed68d13c262.jpg",
+        "table_caption": [
+            "鑽孔機集水器 (配在鑽孔機上使用)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>鑽孔機集水器</td></tr><tr><td>編號:</td><td>WH</td></tr><tr><td>規格:</td><td>4-1/2&quot;或以下鑽頭用</td></tr></table>",
+        "bbox": [
+            26,
+            464,
+            557,
+            571
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2095c0b8e67448981a9505febf9579f8a6409c84b819772b3e55627668c512e.jpg",
+        "image_caption": [
+            "接駁1/2\"內徑去水喉管 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            579,
+            407,
+            949,
+            577
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/46c924f2ffe156c700798475306e5a3062553ce3522ab130d1e7664902dd7bd5.jpg",
+        "table_caption": [
+            "麻石/雲石令梳 (配在3/8\"電鑽/電批上使用)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>編號:</td><td>產品名稱:</td></tr><tr><td>HS20</td><td>20MM(3/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS25</td><td>25MM(1&quot;)--麻石/雲石令梳</td></tr><tr><td>HS32</td><td>32MM(1-1/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS35</td><td>35MM(1-3/8&quot;)--麻石/雲石令梳</td></tr><tr><td>HS38</td><td>38MM(1-1/2&quot;)--麻石/雲石令梳</td></tr><tr><td>HS45</td><td>45MM(1-3/4&quot;)--麻石/雲石令梳</td></tr><tr><td>HS50</td><td>50MM(2&quot;)--麻石/雲石令梳</td></tr><tr><td>HS60</td><td>60MM(2-3/8&quot;)--麻石/雲石令梳</td></tr><tr><td>打孔材料:</td><td>麻石,雲石,人造石,混凝土…</td></tr><tr><td></td><td>帶定位鑰咀,有效打孔深度約70MM.</td></tr></table>",
+        "bbox": [
+            26,
+            632,
+            557,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "專業型",
+        "text_level": 3,
+        "bbox": [
+            726,
+            637,
+            806,
+            659
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20MM---60MM",
+        "text_level": 4,
+        "bbox": [
+            653,
+            665,
+            875,
+            688
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5704de7917b383283af85a559367bf01734394edfe11937cf2428f4be89d3d8e.jpg",
+        "image_caption": [
+            "防滑三角柄"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            569,
+            690,
+            957,
+            862
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 20 ",
+        "bbox": [
+            556,
+            965,
+            621,
+            980
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "六角柄(電批尾)電鍍玻璃令梳 : 專業型--BEST 鷹嘜",
+        "text_level": 3,
+        "bbox": [
+            40,
+            72,
+            697,
+            96
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f170fcd94531f7a114bd09ba16a4e4d346d7fe86450da18829d9bafe5912ead3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>六角柄(電批尾)玻璃令梳--BEST</td></tr><tr><td>編號:</td><td>HEHS</td></tr><tr><td>規格:</td><td>6MM, 6.5MM, 7MM, 8MM,10MM.\n其他規格會陸續加入!!</td></tr><tr><td>打孔:</td><td>麻石, 雲石, 玻璃, 瓷磚,人造石...</td></tr><tr><td colspan=\"2\">包裝:5/10支掛袋裝          (需加水打孔)</td></tr></table>",
+        "bbox": [
+            20,
+            96,
+            505,
+            318
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cea9e2ff120dc5104c9f3966881811c84caf65bd95a64cd6dade271920af309.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            589,
+            116,
+            902,
+            162
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d55dbc120c05e2524c68fbdde1af58af0406aa5514097984d41b21fd569e9c2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            532,
+            175,
+            727,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/909586d8891d132e6df7776ae349b9d7837dd4f15a00578aa6e7d8582c1371b5.jpg",
+        "image_caption": [
+            "(可適用於3/8\"電鑽,電批,起子批)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            734,
+            193,
+            956,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d7f8505c1db05164761657c1fedcc5cf884cf5c33fe37dd17fef7c30b5179ee.jpg",
+        "table_caption": [
+            "電鍍玻璃令梳(圓柄/三角柄)(專業型)(鷹嘜) 3MM---200MM"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>電鍍玻璃令梳--專業型 &quot;BEST&quot;</td></tr><tr><td>編號:</td><td>EHS</td></tr><tr><td>規格:</td><td>3,4,5,6,6.5,7,8,10,12,13,14,15,16,\n18,20,22,23,24,25,26,28,30,32,35,\n38,40,42,45,48,50,53,55,60,65,70,\n75,80,85,90,95,100,105,110,115,\n120,125,130,140,150,160,180,200...</td></tr><tr><td>打孔:</td><td>麻石,雲石,玻璃,瓷磚,人造石...</td></tr><tr><td>包裝:</td><td>獨立掛袋包裝!!        (需加水打孔)</td></tr><tr><td></td><td>3/8&quot;(10MM)電鑰或電批上使用</td></tr></table>",
+        "bbox": [
+            20,
+            378,
+            505,
+            678
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ce017002c045f592ce00457b5306bd71084d7e23b8ca672a45a61d1c7a0e5e2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            384,
+            937,
+            531
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d53660853ec03e54296083b7d2545ee5ae87f85216e6b74a2e42ea86beef500.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            533,
+            682,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b3d7813549a11fec248fa1559d5817cc684e0b9666e2fed66aeacaf17a07930.jpg",
+        "image_caption": [
+            "圓柄/防滑三角柄",
+            "有效打孔深度約:32MM"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            717,
+            536,
+            939,
+            653
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/74da212ed48ad7d663446d24f8321260a46b20ae4e66e89203016a7727bdcb87.jpg",
+        "table_caption": [
+            "麻石/雲石拋光碟 (專業型)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>麻石/雲石抛光碟--專業型&quot;SUPER&quot;</td></tr><tr><td>編號:</td><td>PP4S</td></tr><tr><td>規格:</td><td>4&quot;(100x3mm)</td></tr><tr><td rowspan=\"3\">號數:</td><td>#50,#100,#150,#200,#300,#400,#500,</td></tr><tr><td>#800,#1000,#1500,#2000,#3000,</td></tr><tr><td>#10000(黑材料),#10000(白材料)</td></tr><tr><td>打磨:</td><td>麻石/雲石/人造石抛光（需加水打磨）</td></tr><tr><td>包裝:</td><td>10片/白紙盒</td></tr></table>",
+        "bbox": [
+            20,
+            741,
+            505,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8479f19b57240443263c514d88339b628dcf2ab417a9d5b227d72a018eeca9a3.jpg",
+        "image_caption": [
+            "注意!必須要加水拋光!!"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            549,
+            738,
+            917,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "鑽石工具系列---電鍍玻璃令梳, 麻石/雲石拋光碟",
+        "bbox": [
+            89,
+            21,
+            890,
+            51
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 21 ",
+        "bbox": [
+            504,
+            940,
+            569,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---12V & 16.8V鋰電批",
+        "text_level": 2,
+        "bbox": [
+            112,
+            19,
+            882,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12V鋰電雙速電批--\"SpeeD \" ",
+        "text_level": 3,
+        "bbox": [
+            109,
+            76,
+            591,
+            105
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa3915001e780c6e4848fe13c153a37fbfad1695b70248c17d8af5a0ec1baffa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            58,
+            114,
+            405,
+            353
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8717f95a1d6a4f6b29e0cbc78501bbf91212f7b7e68b0212e552b269ea6b082b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            433,
+            115,
+            771,
+            351
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1315d505652ce34fb48d7366249543c115890f36fbeef3499175fe6ae58fc9c3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            801,
+            115,
+            957,
+            362
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(配:鋰電池--2個, 充電器1個.) ",
+        "bbox": [
+            75,
+            354,
+            436,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7e46061c4ed16724f7f6dc96a2c0bde74796f7a9c0d31cd01366bfde2589273.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>12V鋰電雙速電批(10MM)</td></tr><tr><td>編號:</td><td>LD12V-SET</td></tr><tr><td>配件:</td><td>2粒鋰電池, 1個充電器, 塑盒.</td></tr><tr><td>包裝:</td><td>12套/紙箱</td></tr></table>",
+        "bbox": [
+            102,
+            382,
+            610,
+            498
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "热賣產品！",
+        "text_level": 4,
+        "bbox": [
+            682,
+            368,
+            889,
+            412
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鋰電池&充電器, 原廠保養1年.(不包括人為損壞)",
+        "bbox": [
+            655,
+            426,
+            927,
+            468
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16.8V鋰電雙速電批--\"SpeeD\" ",
+        "text_level": 3,
+        "bbox": [
+            109,
+            542,
+            626,
+            571
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fb0c9c635b57a8bd3e6eb839eb6e2ccf01820cbdd75e1780c6b0ddda6f1f9d6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            45,
+            577,
+            406,
+            810
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/20b79e417b922c4e690cf9167552e8882f6c88f43513033491af326301bf661d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            423,
+            577,
+            761,
+            810
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0630f906ea6d46313464c55fbb316d0f290b3e701f49ece08646eb37ce51456c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            801,
+            573,
+            954,
+            661
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2472e1f1b475e04fe34da4051dd68fbc0174b9cb293b9326d76ac62c4a527fd5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            803,
+            664,
+            951,
+            818
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(配:鋰電池--2個, 充電器1個.) ",
+        "bbox": [
+            75,
+            815,
+            436,
+            835
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9f7581c4eadf3cdc8dfe58b4b9117a0facf6f6580ee806096f37c664a2c3155.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>16.8V鋰電雙速電批(10MM)</td></tr><tr><td>編號:</td><td>LD16V-SET</td></tr><tr><td>配件:</td><td>2粒鋰電池, 1個充電器, 塑盒。</td></tr><tr><td>包裝:</td><td>12套/紙箱</td></tr></table>",
+        "bbox": [
+            102,
+            841,
+            608,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "热賣產品",
+        "text_level": 4,
+        "bbox": [
+            690,
+            822,
+            897,
+            866
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鋰電池&充電器, 原廠保養1年.(不包括人為損壞)",
+        "bbox": [
+            655,
+            888,
+            927,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 22 ",
+        "bbox": [
+            371,
+            967,
+            436,
+            984
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---20V鋰電產品",
+        "text_level": 2,
+        "bbox": [
+            33,
+            20,
+            603,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(以下產品可與18V得偉鋰電池系列產品通用!)",
+        "bbox": [
+            28,
+            68,
+            653,
+            93
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20V無碳刷鋰電雙速電批--\"SpeeD \" ",
+        "text_level": 3,
+        "bbox": [
+            35,
+            112,
+            579,
+            140
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c2ccef2bb30e15e05b3136824e69c20e7c086473db65e9772c7964201ecd96e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電雙速電批(13MM)</td></tr><tr><td>編號:</td><td>LD20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>",
+        "bbox": [
+            25,
+            147,
+            574,
+            254
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/33ad3a81e7e2cef50c23e9dc56b2e8f238aec6ce85da3e729975171ff3d1f8dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            48,
+            261,
+            258,
+            392
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/811fa2a9592fdbfa4f68bdf44a1b4ff8b97c86ee03970e0169788949386e5d71.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            305,
+            290,
+            438,
+            393
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2788a414247d9118d645501ce5127d54f7fdb87fad263c5c224fad1677b07e6f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            475,
+            261,
+            636,
+            395
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/27a086f96d30d1c49f535b21ade91329466fd67a162e6715dc5697949698b24b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            663,
+            19,
+            796,
+            148
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/624d3d11ac0dfeef2ee3771faebc90f2a3012fde9f280b112b2390969e724ba8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            800,
+            20,
+            927,
+            147
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc795d90c75edf2f9bb15bd1338919897de0e44ef1788e166503c3c35294197d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            668,
+            154,
+            934,
+            409
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20V無碳刷鋰電衝擊起子批(衝擊批)--\"SpeeD \"",
+        "text_level": 3,
+        "bbox": [
+            43,
+            414,
+            759,
+            441
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/115bf39c60505ef497f1ac99637e8642405b3b4a49c28e5bd996443738747ca5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電衝擊起子批(1/4&quot;)</td></tr><tr><td>編號:</td><td>LS20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>",
+        "bbox": [
+            25,
+            451,
+            574,
+            539
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7300920f7dbd94c903364aa1fcb5e084479a2eb887de3917021fec2cece45616.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            48,
+            543,
+            262,
+            667
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1216911b7e5eed4ee4b4f3c22a22b5e55f68ad086e1085a1829f337518e05e7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            297,
+            561,
+            438,
+            670
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fb95861b1b23d15d3a0d4dd985d674217a82f3e6fa94f198a0ad5029416f79d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            473,
+            541,
+            613,
+            670
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aff99affa2d66bc0dc22b5b049f05725825d868539211e4d1eadd8bd335c266.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            670,
+            450,
+            934,
+            680
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20V無碳刷鋰電衝擊扳手(卜批)--\"SpeeD\" ",
+        "text_level": 3,
+        "bbox": [
+            43,
+            690,
+            690,
+            717
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/da6f116bc5bb5bcf35a33267dfb66a3e2df115fa3a1f687a965bfdbac3b7841f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>20V無碳刷鋰電衝擊扳手(1/2&quot;)</td></tr><tr><td>編號:</td><td>LW20V-SET</td></tr><tr><td>配件:</td><td>2粒4.0AH鋰電池, 1個快速充電器, 尼龍袋.</td></tr><tr><td>包裝:</td><td>5套/紙箱</td></tr></table>",
+        "bbox": [
+            25,
+            719,
+            574,
+            816
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4655f386f6ac817f8af259ee3e12fa8aca765d1378a35afb906278adab7c010b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            48,
+            827,
+            278,
+            958
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9362eb89acb2a0af0433283bf0be0c51c7176ac1dad04bf3c7c6c3d14b3e0355.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            317,
+            845,
+            468,
+            954
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/575dfa92479c2171e121674a56e4ebcb24f01a75deea6ac7fbccbe3f21991536.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            495,
+            822,
+            640,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3d2ca7f65048def97a1e94cefe8e6dde443d9cca49315bb54e280e5789ff866.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            673,
+            715,
+            934,
+            961
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 23 ",
+        "bbox": [
+            507,
+            958,
+            569,
+            973
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---21V鋰電產品",
+        "text_level": 2,
+        "bbox": [
+            100,
+            21,
+            670,
+            55
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(以下BOSS產品與\"紅M\"全線18V系列鋰電池通用)",
+        "text_level": 3,
+        "bbox": [
+            50,
+            71,
+            884,
+            101
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21V無碳刷鋰電池起子批(衝擊批)--台灣\"BOSS\"",
+        "text_level": 3,
+        "bbox": [
+            21,
+            120,
+            729,
+            147
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4440a6e635969628af749ac1c664b19689fa4031e29185d7c2c4b252fe9c3be3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池起子批(1/4&quot;)(淨機)</td></tr><tr><td>編號:</td><td>LS21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>扭力:</td><td>約380N.m</td></tr><tr><td>包裝:</td><td>獨立彩盒包裝,每箱10部.</td></tr></table>",
+        "bbox": [
+            20,
+            160,
+            524,
+            348
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4372aa33594dc40c2ad539c7338d31d53fb01be7aadefc2ff5fca122d44b773c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            156,
+            757,
+            376
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b546a64dd7aaa9130a997154b4a0806a536d6eb3cf47dcc9ee7bb522698e20b1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            779,
+            129,
+            964,
+            279
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/92d5791d2c569c1edd864fd7ef2f5ffd65f66c791473abadde9b8e26cb7a8de2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            779,
+            282,
+            966,
+            382
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21V無碳刷鋰電池扳手(卜批)--台灣\"BOSS\"",
+        "text_level": 3,
+        "bbox": [
+            21,
+            395,
+            685,
+            420
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a8d48360dbf51ac5b8f9bed1bec3927409f8046c709622344155aafd6b9b8dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池扳手(1/2&quot;)(淨機)</td></tr><tr><td>編號:</td><td>LW21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>扭力:</td><td>約280N.m</td></tr><tr><td>包裝:</td><td>獨立彩盒包裝,每箱10部.</td></tr></table>",
+        "bbox": [
+            20,
+            437,
+            524,
+            577
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2559cf2158326e1b3d53ccf47e797065f16982002d15d0005a1d8ba4c0d134a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            534,
+            420,
+            764,
+            653
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/befffdd8978f6a15905a619aa4e02fbc0cf3310834e267cc70ea4f09d3be14d4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            781,
+            401,
+            966,
+            574
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b5d3a8876331926fd3ce60ca13e7f0589d494392f7fa56e4741fdd110b8931d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            779,
+            580,
+            969,
+            678
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21V無碳刷鋰電池 4\"磨機--台灣\"BOSS\"",
+        "text_level": 3,
+        "bbox": [
+            21,
+            661,
+            642,
+            687
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/69d1d764fec3d11540c5e924011007124d6ce341696f2a5ad0e715fca60caa02.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>21V無碳刷鋰電池4&quot;磨機(淨機)</td></tr><tr><td>編號:</td><td>LG21V (淨機,不包括鋰電池和充電器)</td></tr><tr><td>回轉數:</td><td>9,000R/Min (幼柄)</td></tr><tr><td>錫片直徑</td><td>4&quot;(105mm)</td></tr></table>",
+        "bbox": [
+            20,
+            702,
+            524,
+            841
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d4a72fe4f607a3e3f2b3172c6e314f6d9d8e29c7c07eb95c131e7c981c957b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            536,
+            692,
+            751,
+            961
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/930ba94aec98f9194fa7b8872b9abd68fc6ecdf1257f2a09becd729fa4844157.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            769,
+            692,
+            974,
+            961
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 24 ",
+        "bbox": [
+            522,
+            966,
+            589,
+            980
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---21V鋰電產品",
+        "text_level": 2,
+        "bbox": [
+            114,
+            26,
+            684,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21V鋰電高壓水槍--\"SpeeD \" ",
+        "text_level": 3,
+        "bbox": [
+            131,
+            77,
+            660,
+            110
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2556258c9376b37bbeb0118dfa5e32b8b8b60449782096c1da8b4a347326e179.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>21V鋰電池高壓水槍</td></tr><tr><td>編號:</td><td>WG21V-SET</td></tr><tr><td>配件:</td><td>鋰電池, 充電器, 加長杆, 水喉各1, 塑箱裝.</td></tr><tr><td>用途:</td><td>清洗汽車, 電單車, 冷氣, 外墻, 天台花園…</td></tr><tr><td>包裝:</td><td>4套/紙箱</td></tr></table>",
+        "bbox": [
+            20,
+            114,
+            510,
+            265
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可配\"紅M\"18V鋰電池使用",
+        "text_level": 4,
+        "bbox": [
+            28,
+            307,
+            497,
+            338
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "鋰電池&充電器, 原廠保養1年.",
+        "bbox": [
+            105,
+            367,
+            413,
+            385
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(不包括人為損壞)",
+        "bbox": [
+            164,
+            390,
+            349,
+            409
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e107be6e8b242b3e93434f8a4c716e91014c1a04860fb44d09565e81f8af50ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            519,
+            114,
+            969,
+            379
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(配件:鋰電池,充電器,加長杆,水喉,過濾頭各1個) ",
+        "bbox": [
+            124,
+            445,
+            694,
+            464
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/330b046dc0b63feccd6a64194e3c5c95e164621bafb9a8684ca7da929cd8073a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            508,
+            292,
+            663
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四種噴咀模式:0度,15度,25度,40度.",
+        "bbox": [
+            50,
+            673,
+            455,
+            693
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H檔: 22bar, L檔:6.5bar ",
+        "bbox": [
+            105,
+            695,
+            357,
+            712
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4695166c60d014ee00dd54dae83e4746e98a2635beffc0fa1503c95c9b4566ac.jpg",
+        "image_caption": [
+            "(4套/紙箱) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            505,
+            483,
+            894,
+            682
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用於:清洗汽車,電單車,冷氣,外墻,天台花園…",
+        "bbox": [
+            48,
+            787,
+            932,
+            819
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 25 ",
+        "bbox": [
+            510,
+            954,
+            576,
+            970
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---鋰電代用產品",
+        "text_level": 2,
+        "bbox": [
+            152,
+            20,
+            742,
+            55
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.2V--21V代用紅M鋰電池充電器(快充) ",
+        "text_level": 3,
+        "bbox": [
+            23,
+            82,
+            621,
+            109
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a44af47f6b8f2d5541188c57078831a97cb11a7780683d74770309205c02561.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>7.2V--21V紅M代用鋰電池充電器</td></tr><tr><td>編號:</td><td>CH18V-MKT</td></tr><tr><td>代用:</td><td>與紅M鋰電池通用(輸入:100V--260V-AC)</td></tr></table>",
+        "bbox": [
+            20,
+            118,
+            549,
+            200
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "代用於所有紅M18V的鋰電池產品",
+        "bbox": [
+            40,
+            210,
+            499,
+            233
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/127d61c1107367a47bd51bdbbf8aa733baf1bfd443a07f09f993b8eac2812b41.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            663,
+            61,
+            910,
+            233
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "優質紅M代用鋰電池",
+        "text_level": 3,
+        "bbox": [
+            33,
+            260,
+            337,
+            286
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfa3ea1b7082f72cff7fe12ea9522103e1438e4f494c78ee626b0329cf577bfc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>紅M--18V代用鈰電池5.0Ah</td></tr><tr><td>編號:</td><td>LB18V-MKT</td></tr><tr><td>包裝:</td><td>10個/內箱</td></tr><tr><td>代用:</td><td>代用於所有紅M18V的鋰電產品&amp;充電器</td></tr></table>",
+        "bbox": [
+            20,
+            288,
+            549,
+            382
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc18efd806a94d3cee7c89a8fbf6f26353c1ad050da61c5ed7ce3ebdcc6acbcd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            388,
+            205,
+            536
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7880831aa791decc945d1b0c8805422114342ceec6ff8f1e1c6057b7e7638652.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            235,
+            391,
+            406,
+            536
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f306ca73a85de485001e64c797b5a944c67cd44bb467fcc47e6ce883339e071.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            433,
+            403,
+            603,
+            536
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "代用於所有紅M18V的鋰電產品&充電器",
+        "bbox": [
+            40,
+            546,
+            576,
+            571
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dff1f5f7ba2ac17a43664f66a1efbae4989edf6bd8cd13b6a5bea9da77207a67.jpg",
+        "image_caption": [
+            "18V--5.0Ah"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            631,
+            256,
+            927,
+            407
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/25f39101dd9b9ec721279691b489840af35643fb229e46273daec4b13155ce8a.jpg",
+        "image_caption": [
+            "(1年原廠保養)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            685,
+            458,
+            902,
+            558
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18V鋰電池轉換器: 得偉----轉----牧田(紅M)",
+        "text_level": 3,
+        "bbox": [
+            26,
+            593,
+            727,
+            619
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe35bc43be7b8c54b1db43a2c468f1e36fe4c17f90d0bef6ce7cacf9ab51a86a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>18V鋰電池轉換器(得偉轉紅M)</td></tr><tr><td>編號:</td><td>18VDS-D-M</td></tr><tr><td>包裝:</td><td>10套/紙盒 （附帶USB充電功能）</td></tr><tr><td>轉換:</td><td>得偉鋰電池-----轉-----牧田(紅M)機用</td></tr></table>",
+        "bbox": [
+            20,
+            625,
+            547,
+            711
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a44f3bef68809ef09d8a8eabb45a7ecb1ff1fbc2d93f8033b7e9c4fd462ae2b6.jpg",
+        "image_caption": [
+            "(得偉代用電池) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            33,
+            719,
+            218,
+            917
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3b450db6c9f03d76bff14207426410b3d3c61f52f36262ebd44f009403905bb.jpg",
+        "image_caption": [
+            "(原裝得偉電池) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            235,
+            719,
+            403,
+            917
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/74ac4857fb84142d3c6a4aa7625868f4e4a2f0c913663847c35d3a2a61dbcf4a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            420,
+            719,
+            591,
+            916
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/df784b7c300da63863ff2862eb384d245957000ab603a8dddacc80ff41ece186.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            615,
+            629,
+            915,
+            784
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4a429be62735f58af1782a1d56867db4822ed4a0c64228a95e695c9b4bc0268.jpg",
+        "image_caption": [
+            "(附帶: USB 充電功能)",
+            "(背面) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            660,
+            816,
+            860,
+            920
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 26 ",
+        "bbox": [
+            547,
+            944,
+            615,
+            959
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---鋰電代用產品",
+        "text_level": 2,
+        "bbox": [
+            122,
+            20,
+            712,
+            55
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "優質得偉18V代用鋰電池",
+        "bbox": [
+            43,
+            74,
+            413,
+            99
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/09852313b41d72f1c54ce95c64660819eb098fa2dd03dc5ac67bb0a6a18f08aa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>得偉18V代用鈯電池4.0Ah</td></tr><tr><td>編號:</td><td>LB18V-DW</td></tr><tr><td>包裝:</td><td>10個/內箱</td></tr><tr><td>代用:</td><td>代用於所有得偉18V的鈯電產品&amp;充電器</td></tr></table>",
+        "bbox": [
+            20,
+            102,
+            569,
+            225
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/32bab8a4679ff49c25ecda278fb55e675c157713332f26f6722ba2709c92a613.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            127,
+            235,
+            280,
+            411
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab2a2ce32b1a1e7b30ad323c3dce3fa662653966c0471b43ab170ae7da6f19df.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            357,
+            252,
+            561,
+            409
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/014d3f08db7ac697c21e787fc20e39693a4bd48c563c9ea9e52fbbd9e02266d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            593,
+            99,
+            929,
+            288
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20V--4.0Ah",
+        "bbox": [
+            670,
+            302,
+            847,
+            325
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1年原廠保養)",
+        "bbox": [
+            692,
+            331,
+            826,
+            349
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "代用於所有得偉18V鋰電產品 & 充電器",
+        "bbox": [
+            43,
+            416,
+            630,
+            442
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "得偉18V代用鋰電池充電器(快充)",
+        "text_level": 3,
+        "bbox": [
+            48,
+            498,
+            685,
+            530
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/87ca6e0b96fcbd8b165f8cb5ff7558fe15d986bb8a59db171991b3905a0d1f94.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>得偉18V代用鈰電池充電器</td></tr><tr><td>編號:</td><td>CH18V-DW</td></tr><tr><td>代用:</td><td>代用得偉18V鈰電池 (輸入:100V--240V-AC)</td></tr></table>",
+        "bbox": [
+            20,
+            533,
+            569,
+            657
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "代用於所有得偉18V的鋰電池產品. ",
+        "bbox": [
+            42,
+            708,
+            552,
+            734
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/edd304be6fb0d44a8e059f7bba251eec76d52d1931dc0e2a459f7dac20d6c442.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            594,
+            533,
+            934,
+            728
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 27 ",
+        "bbox": [
+            499,
+            963,
+            566,
+            979
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---磨機,石材切割機",
+        "text_level": 2,
+        "bbox": [
+            124,
+            17,
+            842,
+            55
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4\"(100MM)幼柄磨機--- \"SpeeD\" 750W ",
+        "text_level": 3,
+        "bbox": [
+            36,
+            55,
+            722,
+            89
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "電壓: 220V ",
+        "bbox": [
+            121,
+            93,
+            292,
+            118
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/56a603238970dc83470a8059c85363db52ebd349d491fda80005aa5b0def8a06.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;磨機(220V)(側開,幼柄)</td></tr><tr><td>編號:</td><td>GD220V-SET</td></tr><tr><td>回轉數:</td><td>0-12000R/Min</td></tr><tr><td>電壓:</td><td>220V-50HZ</td></tr><tr><td>包裝/功率:</td><td>12套/箱 750W</td></tr></table>",
+        "bbox": [
+            20,
+            122,
+            490,
+            234
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "電壓: 110V ",
+        "text_level": 4,
+        "bbox": [
+            121,
+            235,
+            292,
+            259
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/622ab7988203d618b94f7bb62130fb70732e7339b71e254fe34987bee5fdd865.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;磨機(110V)(側開,幼柄)</td></tr><tr><td>編號:</td><td>GD110V-SET</td></tr><tr><td>回轉數:</td><td>0-12000R/Min</td></tr><tr><td>電壓:</td><td>110V-50HZ</td></tr><tr><td>包裝/功率:</td><td>12套/箱 750W</td></tr></table>",
+        "bbox": [
+            20,
+            263,
+            490,
+            375
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b45b2e4a5c51fa6ad345bebcecdf7f74b4429a3880e1736960bb0591cd189d60.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            112,
+            378,
+            322,
+            483
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/89428ea71745ad79522e72dc812eb3042993d69a19410eca110320ac4d963016.jpg",
+        "image_caption": [
+            "側面開關 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            495,
+            120,
+            734,
+            378
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "輕巧 ",
+        "bbox": [
+            561,
+            431,
+            630,
+            456
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9c1050730c1eea7934cccdce7d052a246912d004ddccbf5e56cb4edd46c6657.jpg",
+        "image_caption": [
+            "幼柄 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            736,
+            122,
+            969,
+            379
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "小蠻腰",
+        "bbox": [
+            821,
+            432,
+            924,
+            456
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4\"(110MM)石材切割機--\"SpeeD \" 1200W ",
+        "text_level": 3,
+        "bbox": [
+            33,
+            502,
+            828,
+            539
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "電壓: 220V ",
+        "text_level": 4,
+        "bbox": [
+            122,
+            550,
+            295,
+            576
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f24fd552ca7c78b67806e1acb81658cf90f07d42b7ce25659aab18e429ede8f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;石材切割機 (220V)</td></tr><tr><td>編號:</td><td>MC220V-SET</td></tr><tr><td>回轉數:</td><td>1100R/Min, 最大切割深度34MM,</td></tr><tr><td>電壓:</td><td>220V-50HZ</td></tr><tr><td>包裝/功率:</td><td>6套/紙箱 1200W</td></tr></table>",
+        "bbox": [
+            20,
+            579,
+            490,
+            701
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "電壓: 110V ",
+        "text_level": 4,
+        "bbox": [
+            122,
+            705,
+            295,
+            730
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdc05237787bd4c72b34cdba7b326fb84b6e6ca8af6e4dd254c005c4d29d23c2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;石材切割機 (110V)</td></tr><tr><td>編號:</td><td>MC110V-SET</td></tr><tr><td>回轉數:</td><td>1100R/Min, 最大切割深度34MM,</td></tr><tr><td>電壓:</td><td>110V-50HZ</td></tr><tr><td>包裝/功率:</td><td>6套/紙箱 1200W</td></tr></table>",
+        "bbox": [
+            20,
+            734,
+            490,
+            850
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c18c792125033cd11dcee8ce90e131b064ef2a4eed3eb6dbd3c6f5099995878.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            115,
+            853,
+            349,
+            971
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6c6012359f9314e891a71b910d0f460798d926055460692d3234802a0df22ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            534,
+            546,
+            932,
+            750
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eef309f75446ed9e57cd3adb1281dee6b01c90f93f89293c478fe82501d7746e.jpg",
+        "image_caption": [
+            "輕巧 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            574,
+            789,
+            932,
+            961
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 28 ",
+        "bbox": [
+            490,
+            963,
+            557,
+            978
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---攪拌機 & 配件",
+        "text_level": 2,
+        "bbox": [
+            134,
+            20,
+            801,
+            55
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/40cb92e716c08cee634fd9fcd01c203de28cf76a6dbfa84b92cf9a07137b2583.jpg",
+        "table_caption": [
+            "220V電壓--攪拌機(攪油機) \"SpeeD\" 850W "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>攪拌機--220V電壓</td></tr><tr><td>編號:</td><td>BD220V-SET</td></tr><tr><td>功率/轉速:</td><td>850W, 550R/Min</td></tr><tr><td>配件:</td><td>6&quot;攪拌碟, 22&quot; 杆, 碳刷各1</td></tr><tr><td>包裝/電壓:</td><td>7套/箱, 220V-50HZ</td></tr></table>",
+        "bbox": [
+            21,
+            108,
+            473,
+            288
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/362048cf0b2389f6d470ae72a5a5b37afe7804e64f2e307855eb78134dccd1f4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            517,
+            109,
+            951,
+            317
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6eddf9e8b94a3e97ec735ac53de360b72d52a0f51b07a7b48b7d1e78358797.jpg",
+        "table_caption": [
+            "110V電壓--攪拌機(攪油機) \"SpeeD\" 850W "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>攪拌機--110V電壓</td></tr><tr><td>編號:</td><td>BD110V-SET</td></tr><tr><td>功率/轉速:</td><td>850W, 550R/Min</td></tr><tr><td>配件:</td><td>6&quot;攪拌碟, 22&quot; 杆, 碳刷各1</td></tr><tr><td>包裝/電壓:</td><td>7套/箱, 110V-50HZ</td></tr></table>",
+        "bbox": [
+            21,
+            382,
+            473,
+            520
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7f36ee2a248e98c184ed1cf5aaf71406030da829702b56a1b2c925a04321b28.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            526,
+            366,
+            657
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0fdaf62a2d71ad013e471ef218b7891ba41c6339be5be678c0d5d7b4783d9c0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            497,
+            382,
+            949,
+            583
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0169597821d6bc612bc9adc2090ce6088c6c0c3f8d30d08bded4cea3ebc8f35.jpg",
+        "table_caption": [
+            "攪拌機(攪油機)配件"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>6&quot;攪拌碟</td></tr><tr><td>編號:</td><td>BD6</td></tr><tr><td>包裝:</td><td>10個/箱</td></tr></table>",
+        "bbox": [
+            21,
+            708,
+            473,
+            795
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fd3c16b17117a7b8fa1e2954daf76ae76d65e64673e83f76a8c5186013f031a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            703,
+            721,
+            844
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/78442800c47064642ff703e6fdaec0187efdc7b5aba1acd3c7026352418915de.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            746,
+            703,
+            957,
+            845
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d1f60841dd0fc9226fde3f4906b4cd18563f90af166fb8d858717e36ac2951f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>22&quot;攪拌杆(杆粗:13MM)</td></tr><tr><td>編號:</td><td>BS22</td></tr><tr><td>包裝:</td><td>10支/箱        (M10&amp;M12)</td></tr></table>",
+        "bbox": [
+            21,
+            850,
+            472,
+            940
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3fc127c518b43f6f459d233db22bfdddd38e50c241967f2e4555d9340946522.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            482,
+            875,
+            961,
+            927
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 29 ",
+        "bbox": [
+            470,
+            961,
+            536,
+            977
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---萬應寶震震機,石材切割機",
+        "text_level": 2,
+        "bbox": [
+            31,
+            21,
+            890,
+            55
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "萬應寶震震機",
+        "text_level": 3,
+        "bbox": [
+            50,
+            66,
+            278,
+            93
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/20e21a82da24910aab8016f7691355c62c2d4e5b6aa3b1d0b896e8f58b5cd55c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>萬應寶震震機</td></tr><tr><td>編號:</td><td>FN-MAC</td></tr><tr><td>電壓:</td><td>220V-50Hz,</td></tr><tr><td>配件:</td><td>六角匙, 錾片, 介木片, 三角魔術貼托\n各1.三角魔術貼砂紙3張, 碳精1對</td></tr><tr><td>空載速度/功率:</td><td>15000-22000RPM 300W</td></tr><tr><td>包裝:</td><td>12套/箱</td></tr></table>",
+        "bbox": [
+            20,
+            93,
+            495,
+            307
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/2523eac55e0dc9f13a98348d0ff80420b2ad05fe16714064e3a870e63066aad6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            549,
+            93,
+            937,
+            401
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "萬應寶震震機配件:",
+        "text_level": 4,
+        "bbox": [
+            28,
+            370,
+            349,
+            399
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "萬應寶/Bosch/其他牌子機通用:木工/薄金屬/水泥鋸片/磨片",
+        "bbox": [
+            28,
+            412,
+            899,
+            438
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "配件之詳細資料, 請參閱我司之:五金工具系列",
+        "bbox": [
+            26,
+            545,
+            374,
+            598
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed305675441550bba71489098aba077f885fc77ab9d7529ac53fbe7c91440878.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            406,
+            451,
+            952,
+            720
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BOSUN博深:4\"(110MM)石材切割機",
+        "text_level": 3,
+        "bbox": [
+            26,
+            747,
+            566,
+            775
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/9558ed37354b0fcc374a4f8670e02606816a60fb2a42feeca2e459cad5964b9a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號: BS-6801</td></tr><tr><td>額定功率: 1240W</td></tr><tr><td>額定轉速: \n12,000R/MIN</td></tr><tr><td>錫介石礫最大直徑:112MM</td></tr><tr><td>最大切割厚度:34MM</td></tr><tr><td>淨重: 3.1KG</td></tr><tr><td>電壓: 220V-50Hz</td></tr><tr><td>獨立彩盒包裝, 6部/箱</td></tr></table>",
+        "bbox": [
+            21,
+            777,
+            218,
+            961
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/bff5f33bdf1f43d76c8f6cf29d74af37d405d6a3cb354ebdb653fe408cbaeb0a.jpg",
+        "image_caption": [
+            "(不包括鎅石碟)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            322,
+            815,
+            512,
+            923
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8914cad7fbca3e679cfade15814973ffd42beed5de6ea82a3cc6efe6edac590.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            667,
+            753,
+            942,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 30 ",
+        "bbox": [
+            423,
+            964,
+            489,
+            978
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "電動工具系列---手提/台式鑽孔機",
+        "text_level": 2,
+        "bbox": [
+            102,
+            19,
+            821,
+            55
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BOSUN博深:4\"--110B手提式鑽孔機(黃超人)",
+        "text_level": 3,
+        "bbox": [
+            25,
+            61,
+            763,
+            92
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bb8e9821b09aecb7ad83bf32baa8112ee6b35093330745f2ccb5b12389e3054.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號：BS-Z1Z-110B</td></tr><tr><td>額定功率：1,350W</td></tr><tr><td>額定轉速/電壓：1,050R/MIN，220V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在75MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：大陸牙</td></tr><tr><td>淨重：4.5KG</td></tr><tr><td>包裝：獨立塑膠盒包裝，4部/原紙箱</td></tr></table>",
+        "bbox": [
+            23,
+            93,
+            405,
+            256
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/438e7630fe3f4196b1de61dbbb11f284861e0dc56157bfd08c7093d44d326893.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            436,
+            135,
+            601,
+            249
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/de88042712b411bc628aa0cb2a4714f67fa3b082c6533eaa16ab9917f43f9b63.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            635,
+            105,
+            939,
+            256
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BOSUN博深:7\"--180T台式鑽孔機",
+        "text_level": 3,
+        "bbox": [
+            25,
+            293,
+            571,
+            322
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1061ea538f6e4d61155d3315d58a7bfe577512fbd7c3fdb9b32613da755c8ede.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號：BS-Z1Z-180T</td></tr><tr><td>額定功率：2,800W</td></tr><tr><td>額定轉速/電壓：1,200R/MIN，220V-50Hz</td></tr><tr><td>最大鑲孔直徑：（建議在125MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：12.5KG （單速）</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>",
+        "bbox": [
+            21,
+            325,
+            405,
+            485
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/1be7b025d0eb36a5d6b5bb38ca71c6aa7516e0dd353ef1158d4cde74f48d186e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            443,
+            368,
+            722,
+            426
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "機身輕巧,功率大",
+        "bbox": [
+            468,
+            458,
+            709,
+            483
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1af5507b63a4abd19367b1bb6bdf267d880f79a8fac36173b2ef26a194fe846.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            805,
+            286,
+            929,
+            489
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BOSUN博深: 8\"--200M台式鑽孔機 (單速)",
+        "text_level": 3,
+        "bbox": [
+            25,
+            517,
+            724,
+            546
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/c74ea5a2d63f04c43dea17b2bbf1df256839da477fbfd8953f2cb2b485e43b72.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號：BS-Z1Z-200M</td></tr><tr><td>額定功率：3,000W</td></tr><tr><td>額定轉速/電壓：520R/MIN，220V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在150MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：24KG</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>",
+        "bbox": [
+            21,
+            549,
+            403,
+            709
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ec7d5fec7b3c7ca7c19bc7ca1de9591f852fce2d0968119ee6f4bc7f04874b4.jpg",
+        "image_caption": [
+            "(不包括鑽頭)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            453,
+            596,
+            746,
+            663
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b49210928ff9c840b34c8fdb3b414f0e67fe0e9a5b1fe6b87ddf73db5ec64f5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            823,
+            513,
+            954,
+            713
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BOSUN博深:10\"--254台式鑽孔機 (單速)",
+        "text_level": 3,
+        "bbox": [
+            25,
+            747,
+            704,
+            778
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/518774a093d49b70d04975f894b3caa1297a340b0ce415b5142a46e5eb9af89d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號：BS-Z1Z-254</td></tr><tr><td>額定功率：3,500W</td></tr><tr><td>額定轉速/電壓：350R/MIN，200V-50Hz</td></tr><tr><td>最大鑽孔直徑：（建議在200MM內）</td></tr><tr><td>機械離合器保護裝置，接頭：日本牙。</td></tr><tr><td>淨重：25.8KG</td></tr><tr><td>包裝：1部/紙箱</td></tr></table>",
+        "bbox": [
+            21,
+            784,
+            403,
+            944
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/84edc77769d677dc6049527e47a8e492121b548c2a7bd1fd812455d93d8079ec.jpg",
+        "image_caption": [
+            "(不包括鑽頭)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            430,
+            835,
+            776,
+            922
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2185b61f9edf84c2c3c8d767b62d3b9a9c516bdf4695d98e4eddc82b2ea3e1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            808,
+            734,
+            968,
+            947
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 31 ",
+        "bbox": [
+            403,
+            956,
+            467,
+            970
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---拮碟",
+        "text_level": 2,
+        "bbox": [
+            242,
+            19,
+            650,
+            49
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "METAL KING--\"金屬王\"超薄拮碟",
+        "text_level": 3,
+        "bbox": [
+            23,
+            55,
+            515,
+            80
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/08cc788c9ac54abf2585e426a6b57fc3437ef88cc8c39fbfd55ff1850aeb324b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>產品規格</td></tr></table>",
+        "bbox": [
+            20,
+            82,
+            615,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3\"超薄拮碟 (76MM)厚度1MM-- 3\"鋰電手提機專用!",
+        "bbox": [
+            38,
+            126,
+            549,
+            145
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/460ec32f7ac4cca6c8aa759ce14520d21558ea4de122875523549b75de7fb57f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW3-MK</td><td>3&quot;雙網超薄拮礫1MM厚</td><td>76x1x10mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料.                    10MM內孔</td></tr><tr><td>包裝(膠筒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝．80片/盒．800片/箱．</td></tr></table>",
+        "bbox": [
+            20,
+            146,
+            615,
+            225
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4\"超薄拮碟 ",
+        "bbox": [
+            38,
+            246,
+            174,
+            266
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.2MM厚 ",
+        "bbox": [
+            467,
+            250,
+            542,
+            266
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1cf8393dd7041f3e278e909086b6273a5f4d6cd4ff5a29918190ad90d84b4ed.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW4-MK</td><td>4&quot;雙網超薄拮礫1.2MM厚</td><td>107x1.2x16mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr><tr><td>包裝(膠筒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50或100片/膠筒.800片/彩色箱.</td></tr></table>",
+        "bbox": [
+            20,
+            267,
+            615,
+            350
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5\"超薄拮碟 ",
+        "bbox": [
+            38,
+            365,
+            174,
+            385
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.2MM厚 ",
+        "bbox": [
+            467,
+            368,
+            542,
+            385
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/fac6d149de22eceae7559938b4a69977b0d5c29a33cf339479308b36a9ae7e18.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW5-MK</td><td>5&quot;雙網超薄拮碟1.2MM厚</td><td>125x1.2x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.500片/彩色箱.</td></tr></table>",
+        "bbox": [
+            20,
+            386,
+            615,
+            467
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6\"超薄拮碟 ",
+        "bbox": [
+            38,
+            478,
+            174,
+            497
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.3MM厚 ",
+        "bbox": [
+            467,
+            481,
+            542,
+            497
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c883cbd3007774e45e3d249a72b7493408ec213014a5dcf24a8aff37e8a842e7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW6-MK</td><td>6&quot;雙網超薄拮礫1.3MM厚</td><td>150x1.3x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.300片/彩色箱.</td></tr></table>",
+        "bbox": [
+            20,
+            499,
+            615,
+            571
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7\"超薄拮碟 ",
+        "bbox": [
+            38,
+            583,
+            174,
+            602
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.5MM厚",
+        "bbox": [
+            467,
+            587,
+            542,
+            602
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8bed37f5511a1155fbef762ce87fbf025fda7edbd591ed0119048f6a0b9fe75.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW7-MK</td><td>7&quot;雙網超薄拮碟1.5MM厚</td><td>180x1.5x22.23mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管…</td></tr><tr><td>包裝(內盒/外箱):</td><td colspan=\"2\">10片/收縮膜包裝.50片/彩盒.200片/彩色箱.</td></tr></table>",
+        "bbox": [
+            20,
+            604,
+            615,
+            663
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "14\"拮碟 ",
+        "bbox": [
+            58,
+            678,
+            154,
+            697
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3MM厚 ",
+        "bbox": [
+            475,
+            681,
+            531,
+            697
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a88ad6f10c2317eee2562b6b5d792af7a631b7414c7674544da8f53f3dab37c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>COW14-MK</td><td>14&quot; 括碟--3.0MM厚</td><td>355x3.0x25.4mm</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料:角鐵,工字鐵,鋼筋,鐵喉管...</td></tr><tr><td>包裝(外箱):</td><td colspan=\"2\">5片/收縮膜包裝. 30片/彩色箱.</td></tr></table>",
+        "bbox": [
+            20,
+            699,
+            615,
+            770
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/f590f33985a416ebc2acedb96d4979c642980000a6c6f85c4a86ef3c1606d6c5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            670,
+            105,
+            959,
+            219
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/404b72566e001712666f6533a0194767e7eca1db8eacdc5372315eea76fdd768.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            625,
+            243,
+            768,
+            304
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a119d6f40c02a9ff1958e910d36202875cbcc498e6127f41c82c6ba8ca5d8747.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            623,
+            307,
+            771,
+            343
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/78d61ca0fcecc6a10ec201b975b22129c68bcfd3d7ea4ce88faf38eea5ca32ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            779,
+            225,
+            959,
+            342
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c00426cbfa1abb69819d62a116fc4c6cc9c13bf0c70efa1a248b55d6b63875a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            776,
+            346,
+            961,
+            470
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1aff269211f42a6c9e66cded44411b651d40f03ee43a534569aa6406deff0c80.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            621,
+            414,
+            768,
+            469
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a3662e9096e06f036fab8f2f5e78cf6e8019fed85a2e57fa154b588ff37692a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            621,
+            549,
+            761,
+            618
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a66e3bb30a35fc337ca4a58d7579b1224a3e5ba310bfc47febef8429657d8626.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            766,
+            474,
+            966,
+            618
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa0540f1136b8f0601c32cf14e6c49949c046ef2370af47aa76f35573ba9d150.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            747,
+            623,
+            968,
+            776
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\"鷹嘜\"SPEED-CUT\" 薄拮碟",
+        "text_level": 3,
+        "bbox": [
+            25,
+            815,
+            426,
+            841
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/43dfa34425a39a1cd7efa05a3cc86770ca94aa0c182966a111445ca9634631ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>內盒//原箱</td></tr><tr><td>COW4</td><td>4&quot;超薄拮碟1.2厚</td><td>100片/膠筒.800/箱</td></tr><tr><td>COW5</td><td>5&quot;拮碟</td><td>50片/內盒.500/箱</td></tr><tr><td>COW6</td><td>6&quot;拮碟</td><td>25片/內盒.200/箱</td></tr><tr><td>適用於:</td><td colspan=\"2\">切割各種鋼鐵材料;角鐵,工字鐵,鐵喉管,不銹鋼…</td></tr></table>",
+        "bbox": [
+            20,
+            847,
+            615,
+            956
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/480f88864836801a38bc43f2c2285b129d59f099d75ae6690343d469b54aa4ab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            620,
+            820,
+            794,
+            948
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/171c9131987ed796939b6d82dce88dbc9e4deccc6a641692d6ed556bc8ba686d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            800,
+            844,
+            971,
+            967
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 32 ",
+        "bbox": [
+            473,
+            966,
+            539,
+            980
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---萬用碟",
+        "text_level": 2,
+        "bbox": [
+            231,
+            19,
+            684,
+            49
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A級鷹嘜萬用碟--(專業型) 4\"",
+        "text_level": 3,
+        "bbox": [
+            40,
+            55,
+            453,
+            80
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/898acedf68cd0a78ef8697302ec0fa44883a06efdb02299b3747c2ffa15cf092.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;A級鷹嘜萬用碟(40齒)--專業型</td></tr><tr><td>編號:</td><td>MC4-40T</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管,薄鐵板</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            80,
+            492,
+            187
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/4950d1537ac161bf72bae2250551281fd5aac214520077647eb3020475d561ba.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;A級鷹鴨萬用碟(20齒)--專業型</td></tr><tr><td>編號:</td><td>MC4-20T</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管.薄鐵板</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            193,
+            492,
+            293
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "萬用碟(經濟型) 4\"",
+        "text_level": 3,
+        "bbox": [
+            43,
+            312,
+            341,
+            334
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f3d0287fdd8857d4db95195ff7afd787a466a6c38395a3640830db567ca9836.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(20齒)--經濟型</td></tr><tr><td>編號:</td><td>MC4-20L</td></tr><tr><td>規格:</td><td>4&quot; (100 x 1.5 x 20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            336,
+            492,
+            435
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "萬用碟(通用型) 4\"",
+        "text_level": 3,
+        "bbox": [
+            43,
+            451,
+            342,
+            473
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/e73469b1c31394b75126f5e3514dcfc7b0442a946e77c2e9243986a13c6ab5d9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(40齒)--通用型</td></tr><tr><td>編號:</td><td>MC4-40E</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠/銅喉管</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            475,
+            492,
+            574
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/de11f4be502fc0850adcbb227c218d0cd44e91cf9771405d8d163ae4318ce070.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;萬用碟(20齒)---通用型</td></tr><tr><td>編號:</td><td>MC4-20E</td></tr><tr><td>規格:</td><td>4&quot; (100x1.5x20(內孔)mm)-20T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,膠/銅喉管</td></tr><tr><td>包裝:</td><td>20片/白盒, 200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            587,
+            492,
+            686
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A級鷹嘜萬用碟--(專業型) 6\"",
+        "text_level": 3,
+        "bbox": [
+            40,
+            694,
+            426,
+            717
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1c82f70eb4e32c0b16d6423633371248ff7e4c7994d6a189316bed540f390a5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>6&quot;A級鷹鴨萬用碟(52齒)--專業型</td></tr><tr><td>編號:</td><td>MC6-52T</td></tr><tr><td>規格:</td><td>6&quot; (150x1.7x25.4(內孔)mm)-52T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管.薄鐵板</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            719,
+            492,
+            816
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A級鷹嘜萬用碟--(專業型) 7\"",
+        "text_level": 3,
+        "bbox": [
+            40,
+            835,
+            426,
+            860
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e3d0dbd5b63d60705073dd35f13161a42c5e3ab9f02d2569cf5fc99023d5d8c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>7&quot;A級鷹鴨萬用碟(60齒)--專業型</td></tr><tr><td>編號:</td><td>MC7-60T</td></tr><tr><td>規格:</td><td>7&quot; (180x1.7x25.4(內孔)mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,薄鋁合金板,銅喉管,薄鐵板</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            860,
+            492,
+            961
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(鋒利,耐用,切割面整齊) (可鎅薄鐵板) ",
+        "text_level": 4,
+        "bbox": [
+            504,
+            93,
+            734,
+            130
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/fccf43bf14a94e16d33500f76202e5849e64e863ea16e4fe027903dfb6eb833a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            517,
+            131,
+            737,
+            321
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd8dcdf4b468efe7e8e327cc48227f6f8e8c86223e552ccac3adbec1726f5f9e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            779,
+            74,
+            907,
+            130
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f34c3defedb2fe57d3bab59393d8ff54bf1c6a29916b0d93ea38671a5c182e74.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            757,
+            131,
+            968,
+            321
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/7252131a78c76d1f80d9c2c121383ea5c6908be074582bbd51dd9745d5a5da5c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            630,
+            328,
+            847,
+            476
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f95dbc2a0f0aab63a5e8333e1a5845adcbfd9eb8ae839e6649cf2ee7ad9d7cb6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            486,
+            734,
+            677
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c17ce831a5f580bb74e495bcbd78e83a84ce3ebc31f01a498402ec05f1295212.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            761,
+            488,
+            966,
+            676
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(鋒利,耐用,切割面整齊) (可鎅薄鐵板) ",
+        "text_level": 4,
+        "bbox": [
+            494,
+            699,
+            724,
+            739
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/50c9e46199a932ffa0f9863445c05bd1c20be3fd02b235ee1a8546e8c878a345.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            507,
+            741,
+            729,
+            950
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5929d031afd3c71b3d1b525941491769c2c4bab7aab5264026324168dda86a9a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            794,
+            701,
+            919,
+            760
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b3e48e373e8ce7ffa0c00181d35988b4f07798480d60124337eb8cad548e4f8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            751,
+            763,
+            969,
+            972
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 33 ",
+        "bbox": [
+            423,
+            967,
+            489,
+            982
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---18V手提鋸專用碟",
+        "text_level": 2,
+        "bbox": [
+            184,
+            16,
+            842,
+            49
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d83e84496e6ebadd926ed8c98d312cef9f134a37c643fa7e07832339b2c02c8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            35,
+            55,
+            253,
+            200
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/47bbbce3ee5fd91238e351dab520f8cb74b57f96db191fcfbe80965a5baa053a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            282,
+            58,
+            497,
+            200
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a617d9b09b9454a571f0d8bd93778c18f6c02d4f4a27c17900e1e637f692a7a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            58,
+            727,
+            203
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/06efcea24ce1ae85bae100ee88e52beed408ca240328f051340aff0ae80125bc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            754,
+            58,
+            954,
+            203
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "牧田,得偉,博世,日立…等,18V鋰電手提鋸專用鎅木碟&鎅薄金屬碟 ",
+        "bbox": [
+            25,
+            212,
+            947,
+            237
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/c730138498fefa3293253305cd41c3b14f6d160f4b89648b745a9ea05273363e.jpg",
+        "table_caption": [
+            "鎅木碟 ",
+            "5-3/8\"(136MM)- 24T "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>5-3/8&quot; (136MM)錫木碟(24齒)</td></tr><tr><td>編號:</td><td>MC5.3W-24</td></tr><tr><td>規格:</td><td>5-3/8&quot; (136x1.5x20(內孔)-24T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            279,
+            507,
+            385
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f5c0254884a62757f6408e0e7669701d41cc619a8a1806b9452031b406426e6.jpg",
+        "table_caption": [
+            "鎅木碟 ",
+            "6-1/2\"(165MM)- 40T "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>6-1/2&quot; (165MM)錫木碟(40齒)</td></tr><tr><td>編號:</td><td>MC6.5W-40</td></tr><tr><td>規格:</td><td>6-1/2&quot; (165x1.6x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            425,
+            507,
+            521
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/a036fb474f440570228fe93e7f18fcab870f0ad070ad6a4d0b9e0ca1021deeb6.jpg",
+        "image_caption": [
+            "專業型"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            515,
+            307,
+            737,
+            514
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/c765815075ec4d4f99527c93380d4ffea09db4c5f2ef8409d687987386fa76cb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            789,
+            247,
+            915,
+            306
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff8b049a14d25fc9674547bd7c752f77cc98e9dcf2f3637c14dd4cff354669f5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            746,
+            307,
+            969,
+            514
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f1f6dbd708f8f651e6de1b30c809855d198bd092ac9f23400825ca887f7d513.jpg",
+        "table_caption": [
+            "鎅薄金屬碟 ",
+            "5-3/8\"(136MM)- 30T "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>5-3/8&quot; (136MM)錫薄金屬碟(30齒)</td></tr><tr><td>編號:</td><td>MC5.3M-30</td></tr><tr><td>規格:</td><td>5-3/8&quot; (136x1.4x20(內孔)-30T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            563,
+            507,
+            653
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f8e32d381feace0d27a73b22fa7a3feb5b49f1711007b4ceddd9bdeb4041ab9.jpg",
+        "table_caption": [
+            "鎅薄金屬碟 ",
+            "6-1/2\"(165MM)- 40T "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>6-1/2&quot; (165MM)錳薄金屬碟(40齒)</td></tr><tr><td>編號:</td><td>MC6.5M-40</td></tr><tr><td>規格:</td><td>6-1/2&quot; (165x1.4x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>10片/盒, 50片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            694,
+            507,
+            802
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/9590f1567b314a095f8066da519e8ccf11738d5786384880f5f4a4391b44b46a.jpg",
+        "image_caption": [
+            "專業型"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            514,
+            590,
+            734,
+            797
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/683ace01ac40e823fee3df5f96e74fa67a126417ffcf6d9d5e42c021fdd2bac3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            789,
+            527,
+            912,
+            587
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/047fbb0761b409eb849cdc3d16476631a32778c6ea41c2c57e23da6cd5f5ada7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            744,
+            589,
+            969,
+            800
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/4defa2b2647eeb10977d1f734c348dce73b31fd5c5cacba67bbd944e5ae3d520.jpg",
+        "table_caption": [
+            "雙面鎅木碟",
+            "4\"(110MM)- 40T "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot; (110MM)雙面錳木碟(40齒)</td></tr><tr><td>編號:</td><td>TS4W-D40T</td></tr><tr><td>規格:</td><td>4&quot; (110x1.8x20(內孔)-40T</td></tr><tr><td>包裝:</td><td>20片/盒, 200片/箱</td></tr></table>",
+        "bbox": [
+            21,
+            860,
+            507,
+            947
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5366c1b22985c33c51b3287e58e7a7798812ce839c85e2f6c1dcc7e9a9039864.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            803,
+            724,
+            977
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4\"雙面鎅木碟 ",
+        "bbox": [
+            754,
+            904,
+            915,
+            926
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 34 ",
+        "bbox": [
+            440,
+            969,
+            505,
+            983
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---木鎅碟(吸嗦包裝)",
+        "text_level": 2,
+        "bbox": [
+            194,
+            19,
+            803,
+            49
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            58,
+            139,
+            82
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4\"- 30T ",
+        "text_level": 4,
+        "bbox": [
+            247,
+            57,
+            363,
+            80
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "吸嗦包裝 ",
+        "bbox": [
+            663,
+            61,
+            746,
+            78
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ad3c9e61c09f870cb682a21c8893dc5d89ff86ee35ae57bb0fd85395947abb1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;木錫碟(30齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS4WC-30T</td></tr><tr><td>規格:</td><td>4&quot; (110×20(內孔)16mm)-30T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            83,
+            465,
+            180
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            184,
+            139,
+            208
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4\"- 40T ",
+        "text_level": 4,
+        "bbox": [
+            247,
+            183,
+            361,
+            206
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b8c1070060476e6f7c38a4456977a024a5addf259bf9d5f91e664ee47ff4675.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>4&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS4WC-40T</td></tr><tr><td>規格:</td><td>4&quot; (110×20(內孔)16mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>20片/白盒,200片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            209,
+            465,
+            306
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/3307eeecc4ce28a05059705bbda5eede5f693af6e4a7d4dae29ff67678b78249.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            473,
+            86,
+            707,
+            288
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb60a4429387533240c394b581e2de944f6cc2feeb16eceae8606ede81d2ba0c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            86,
+            971,
+            296
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "質量檢測: ",
+        "bbox": [
+            26,
+            343,
+            137,
+            363
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/90f7c0a7c4e72d4a80440cfc221f415d23b6ac50f68811dfb602c8680d4905ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            179,
+            319,
+            344,
+            416
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/850132eb873d9dd9066bfe52c1ec8c1567e75d5d7c996040638151831b0e192a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            388,
+            318,
+            544,
+            414
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc3e1dc136b501825be5eb03ec395281a0056ab81180d7f366115fd573d69d0b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            586,
+            319,
+            742,
+            416
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfdb6ff0c871bcc69b460189a8a070a4bc3b58db628651730045d6f90758184f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            784,
+            319,
+            942,
+            418
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            432,
+            139,
+            456
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7\"- 40T ",
+        "text_level": 4,
+        "bbox": [
+            248,
+            432,
+            361,
+            454
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/3300d7fbbabdc23e020dc774db070165a4e3e56fb11df89500f3bbdef0621d05.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>7&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS7WC-40T</td></tr><tr><td>規格:</td><td>7&quot; (180 x 25.4(內孔)/20mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            458,
+            465,
+            554
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            558,
+            139,
+            582
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7\"- 60T ",
+        "text_level": 4,
+        "bbox": [
+            248,
+            558,
+            361,
+            580
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/223276b571190eb2b19a0010a16c7a9e51875fb7b02d49cfe141ffb2a15d7118.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>7&quot;木錳碟(60齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS7WC-60T</td></tr><tr><td>規格:</td><td>7&quot; (180 x 25.4(內孔)/20mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            583,
+            465,
+            680
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "吸嗦包裝 ",
+        "bbox": [
+            663,
+            436,
+            746,
+            451
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7082fdf432714ccfb1db6d96af8c72a6421967d38375b2db484d470d14f9b47.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            485,
+            462,
+            715,
+            675
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/da0b5b617c525d0de6577110dbecda5c6c15c8e6e699f7182d61550707e4e585.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            731,
+            462,
+            966,
+            675
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            705,
+            139,
+            728
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9\"- 40T ",
+        "text_level": 4,
+        "bbox": [
+            247,
+            703,
+            361,
+            727
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/b133f1461c56856dbf38e73c653703923d3b66f5f27748e0d688dc055f954412.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>9&quot;木錳碟(40齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS9WC-40T</td></tr><tr><td>規格:</td><td>9&quot; (230 x 25.4(內孔)/20mm)-40T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            731,
+            465,
+            827
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟",
+        "text_level": 3,
+        "bbox": [
+            38,
+            832,
+            139,
+            854
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9\"- 60T ",
+        "text_level": 4,
+        "bbox": [
+            248,
+            831,
+            361,
+            853
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d389b1e89c7dd6b0b1e5154bef6ddfcef737b9e0b01fe465aa7a42cfee09c40.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>名稱:</td><td>9&quot;木錳碟(60齒)-WOOD CUTTER</td></tr><tr><td>編號:</td><td>TS9WC-60T</td></tr><tr><td>規格:</td><td>9&quot; (230 x 25.4(內孔)/20mm)-60T</td></tr><tr><td>切割:</td><td>木板,纖維板,薄膠板,膠喉管</td></tr><tr><td>包裝:</td><td>10片/白盒,50片/箱</td></tr></table>",
+        "bbox": [
+            20,
+            857,
+            465,
+            953
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "吸嗦包裝 ",
+        "bbox": [
+            663,
+            699,
+            746,
+            715
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f61dc85281370af1e73cd19adec078abda4b1c42e7de3346c9bea86b630bf38d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            480,
+            727,
+            722,
+            952
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/5917d38681ec24e2f1023665826b94063229cb70e0bb7d7e832cbb659be9d16f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            732,
+            727,
+            971,
+            953
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 35 ",
+        "bbox": [
+            463,
+            963,
+            529,
+            978
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---木/鋁合金鎅碟(彩盒包裝)",
+        "text_level": 2,
+        "bbox": [
+            115,
+            19,
+            872,
+            49
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟:",
+        "text_level": 3,
+        "bbox": [
+            26,
+            59,
+            144,
+            85
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "\"OSAKA//大阪\"",
+        "text_level": 4,
+        "bbox": [
+            346,
+            59,
+            561,
+            83
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4\"----14\"",
+        "bbox": [
+            181,
+            91,
+            312,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/3bb3df4ec2cee65f7eacfd33f16ac0a7a392f954839b34b5b4cea6e8080653de.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>TS4W-30T</td><td>4&quot;錳木碟--30齒</td><td>4&quot;(110x2.2x30Tx20mm(16mm)</td></tr><tr><td>TS4W-40T</td><td>4&quot;錳木碟--40齒</td><td>4&quot;(110x2.2x30Tx20mm(16mm)</td></tr><tr><td>TS6W-40T</td><td>6&quot;錳木碟--40齒</td><td>6&quot;(150x2.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS6W-60T</td><td>6&quot;錳木碟--60齒</td><td>6&quot;(150x2.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS7W-40T</td><td>7&quot;錳木碟--40齒</td><td>7&quot;(180x2.2x40Tx20/25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS7W-60T</td><td>7&quot;錳木碟--60齒</td><td>7&quot;(180x2.2x60Tx20/25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS8W-40T</td><td>8&quot;錳木碟--40齒</td><td>8&quot;(200x2.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS8W-60T</td><td>8&quot;錳木碟--60齒</td><td>8&quot;(200x2.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9W-40T</td><td>9&quot;錳木碟--40齒</td><td>9&quot;(230x3.0x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9W-60T</td><td>9&quot;錳木碟--60齒</td><td>9&quot;(230x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-40T</td><td>10&quot;錳木碟--40齒</td><td>10&quot;(250x3.0x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-60T</td><td>10&quot;錳木碟--60齒</td><td>10&quot;(250x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10W-80T</td><td>10&quot;錳木碟--80齒</td><td>10&quot;(250x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12W-60T</td><td>12&quot;錳木碟--60齒</td><td>12&quot;(300x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12W-80T</td><td>12&quot;錳木碟--80齒</td><td>12&quot;(300x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14W-60T</td><td>14&quot;錳木碟--60齒</td><td>14&quot;(350x3.0x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14W-80T</td><td>14&quot;錳木碟--80齒</td><td>14&quot;(350x3.0x80Tx25.4mm(22.2&amp;20mm)</td></tr></table>",
+        "bbox": [
+            20,
+            117,
+            724,
+            569
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fbc48c850dc2e5c56947be280c8e6a4e0a317e7b1f47cb6ddf68db21c72b7c5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            742,
+            123,
+            944,
+            252
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c1df5efcf9b793a9f71e6937c2c2367ae66ec3abad9ce2051ff2632b80b80f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            729,
+            260,
+            963,
+            409
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/c714fe67802f25a0c3e30ddedea21d908594ee1f05fae6405124110e019eab4c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            732,
+            419,
+            963,
+            568
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "8\"--14\"",
+        "bbox": [
+            223,
+            659,
+            336,
+            682
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb2dccc79918f77fdb3fbf764746ed5507c86bc89bd342f70e4dd10aff02c78c.jpg",
+        "table_caption": [
+            "鋁合金鎅碟: ",
+            "\"OSAKA//大阪\""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>TS8A-100T</td><td>8&quot;鋁合金錳碟--100齒</td><td>8&quot;(200x2.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS9A-100T</td><td>9&quot;鋁合金錳碟--100齒</td><td>9&quot;(230x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10A-100T</td><td>10&quot;鋁合金錳碟--100齒</td><td>10&quot;(250x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS10A-120T</td><td>10&quot;鋁合金錳碟--120齒</td><td>10&quot;(250x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12A-100T</td><td>12&quot;鋁合金錳碟--100齒</td><td>12&quot;(300x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS12A-120T</td><td>12&quot;鋁合金錳碟--120齒</td><td>12&quot;(300x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14A-100T</td><td>14&quot;鋁合金錳碟--100齒</td><td>14&quot;(350x3.0x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>TS14A-120T</td><td>14&quot;鋁合金錳碟--120齒</td><td>14&quot;(350x3.0x120Tx25.4mm(22.2&amp;20mm)</td></tr></table>",
+        "bbox": [
+            20,
+            683,
+            724,
+            951
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba4f9b6b7e3d083d007cb1c55d24f535e724071e9e6cb0bcf3d978c9ca32b0a3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            729,
+            650,
+            959,
+            800
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/517752864e3af92c1b4ea838f32393dcd65a19431f162e1f056a5ebc7baa893f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            729,
+            804,
+            961,
+            956
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 36 ",
+        "bbox": [
+            500,
+            958,
+            566,
+            972
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---木/鋁合金鎅碟(彩盒包裝)",
+        "text_level": 2,
+        "bbox": [
+            114,
+            19,
+            872,
+            52
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "木鎅碟:",
+        "text_level": 3,
+        "bbox": [
+            26,
+            71,
+            144,
+            95
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "\"SpeeD\" ",
+        "text_level": 4,
+        "bbox": [
+            366,
+            68,
+            477,
+            93
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10\"----14\"",
+        "bbox": [
+            188,
+            105,
+            334,
+            129
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "特價倉底貨!售完即止! ",
+        "bbox": [
+            415,
+            110,
+            690,
+            131
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/7230b4e0e6137b37b024b361c96cb51b87794fb479ca81cef334d736e8209ce8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>ATS10W-40T</td><td>10&quot;鎘木碟--40齒</td><td>10&quot;(250x3.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS12W-80T</td><td>12&quot;鎘木碟--80齒</td><td>12&quot;(300x3.2x80Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-40T</td><td>14&quot;鎘木碟--40齒</td><td>14&quot;(350x3.2x40Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-60T</td><td>14&quot;鎘木碟--60齒</td><td>14&quot;(350x3.2x60Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14W-80T</td><td>14&quot;鎘木碟--80齒</td><td>14&quot;(350x3.2x80Tx25.4mm(22.2&amp;20mm)</td></tr></table>",
+        "bbox": [
+            20,
+            134,
+            702,
+            348
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa04db9a325abdc9ebb8da54a60ea8cf55ad90c733bf3341ce3a81677eb5efe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            707,
+            137,
+            946,
+            293
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/53d5bdcf29a0817be8176d82a8ddbde25c520a6a850c6590f61a769de160560b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            702,
+            305,
+            946,
+            460
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "鋁合金鎅碟: ",
+        "text_level": 3,
+        "bbox": [
+            26,
+            420,
+            211,
+            445
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "\"SpeeD\" ",
+        "text_level": 4,
+        "bbox": [
+            366,
+            419,
+            477,
+            444
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "9\"--14\"",
+        "bbox": [
+            236,
+            451,
+            347,
+            473
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "特價倉底貨!售完即止! ",
+        "bbox": [
+            416,
+            453,
+            690,
+            474
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/45e38a1a1337f86bcec407f728b1f6efd9fb02c6b7545e59e70a68a1b837ad36.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品編號</td><td>產品名稱</td><td>規格</td></tr><tr><td>ATS9A-100T</td><td>9&quot;鋁合金錫碟--100齒</td><td>9&quot;(230x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS12A-100T</td><td>12&quot;鋁合金錫碟--100齒</td><td>12&quot;(300x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr><tr><td>ATS14A-100T</td><td>14&quot;鋁合金錫碟--100齒</td><td>14&quot;(350x3.2x100Tx25.4mm(22.2&amp;20mm)</td></tr></table>",
+        "bbox": [
+            20,
+            475,
+            700,
+            634
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6e8ac9c01ead44d6d109835b753d58d5b5b729e2e71c9f704ee244af4478791.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            707,
+            476,
+            946,
+            630
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 37 ",
+        "bbox": [
+            495,
+            958,
+            561,
+            973
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "五金工具系列---黑頭加硬炮尖",
+        "text_level": 2,
+        "bbox": [
+            139,
+            19,
+            724,
+            49
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "炮尖(細電炮用): (已加硬) (黑頭) ",
+        "bbox": [
+            26,
+            53,
+            581,
+            82
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b240c145bdb32f149568e33dd038d8b91f98d7eba88cb456d108aa76fd8a06b2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            134,
+            89,
+            463,
+            196
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b46efc9b0e8ab243d98d7b675b072f9c66748c09a3b99aa1ffda77b048d64efc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            640,
+            60,
+            847,
+            87
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdab556a3aa451ebcfdf763c561de83619889f2f96bf3e541e230be967c86aa2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            512,
+            92,
+            964,
+            195
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/386ef044a3454b1e96da53091304c02e50d2f48afba5339b2d1a2608cacc9824.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>長炮尖</td><td>扁炮鑿</td><td>短炮尖</td><td>18&quot;加長炮尖</td><td>18&quot;加長扁炮鑿</td></tr><tr><td>編號:</td><td>CS280</td><td>CS280F</td><td>CS210</td><td>CS450</td><td>CS450F</td></tr><tr><td>規格:</td><td>(17x280)mm</td><td>(17x280x25)mm</td><td>(17x200/210)mm</td><td>(17x450)mm</td><td>(17x450x25)mm</td></tr><tr><td>包裝:</td><td>原箱:60支</td><td>原箱:60支</td><td>原箱:100支</td><td>原箱:30支(膠筒裝)</td><td>原箱:30支(膠筒裝)</td></tr></table>",
+        "bbox": [
+            20,
+            199,
+            979,
+            282
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/712f696dcfb6f72e047ec7530d1becec9ab90d5cb9cd742653eec8acd488230e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            35,
+            286,
+            584,
+            388
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "所有黑頭炮尖已過火加硬,",
+        "bbox": [
+            600,
+            311,
+            961,
+            335
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "不需要再返打加工!!",
+        "bbox": [
+            633,
+            354,
+            921,
+            378
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/42520347df5319418836bdb48436bb943bb469c10593bebcdbf6dc57d6e37dd2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>24&quot;加長炮尖</td><td>24&quot;加長扁炮擊</td><td>40&quot;加長炮尖</td></tr><tr><td>編號:</td><td>CS600</td><td>CS600F</td><td>CS1000</td></tr><tr><td>規格:</td><td>(17x600)mm</td><td>(17x600x25)mm</td><td>(17x1000)mm</td></tr><tr><td>包裝:</td><td>原箱:20支(膠筒裝)</td><td>原箱:20支(膠筒裝)</td><td>原箱:20支(膠筒裝)</td></tr></table>",
+        "bbox": [
+            20,
+            392,
+            600,
+            478
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d7ec28c7c8c34f0113a1f74140bf867c657dda4a6a0be60527a7bf75d83cd1b.jpg",
+        "image_caption": [
+            "超薄!刃口鋒利!"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            25,
+            530,
+            188,
+            577
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/0379b84856b48eaf166302ad032e909a15a0fbee96cad948234322894bbe8eba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            193,
+            481,
+            497,
+            615
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1b647e91ea2052eaf164157c4345f81e1f2574cd31d57b905a5888fc54f18f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            505,
+            483,
+            717,
+            614
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/a22248b58ad458b8224ab072856a06886bb2f3adde3ec116696c7f7d4cbdd3ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            726,
+            488,
+            969,
+            615
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cc9a2caef6bb99b5cdd0cfbe19d2af9447873b99b01676d86ece78fb0992072.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>3&quot;扁炮鑿</td><td>2&quot;超薄扁炮鑿</td><td>2&quot;超薄短扁炮鑿</td><td>1-1/2&quot;超薄短扁炮鑿</td><td>四坑2&quot;超薄扁短炮鑿</td></tr><tr><td>編號:</td><td>CS280F75</td><td>CS280F50</td><td>CS210F50</td><td>CS210F38</td><td>CS180-F40</td></tr><tr><td>規格:</td><td>(17x280x75)mm</td><td>(17x280x50)mm</td><td>(17x210x50)mm</td><td>(17x210x38)mm</td><td>(14x180x43)mm</td></tr><tr><td>包裝:</td><td>原箱:50支(掛袋裝)</td><td>原箱:60支(掛袋裝)</td><td>原箱:80支(掛袋裝)</td><td>原箱:80支(掛袋裝)</td><td>20支/扎(掛袋裝)</td></tr></table>",
+        "bbox": [
+            20,
+            619,
+            979,
+            697
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "四坑炮尖(四坑油壓鑽用): (已加硬) (黑頭)",
+        "text_level": 3,
+        "bbox": [
+            26,
+            711,
+            722,
+            738
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc498af2c65eedd6dfd47f395e9b8b3a25685fcae4a5fddeb20c2d577a4341e4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            740,
+            564,
+            864
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2fc04488ff5141e4a5314765ce6075c33ad940ac13fd1af5fd062e19a014bf4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            657,
+            752,
+            915,
+            865
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcb1c0731fe1a46cf622f1d02c5b5e38162a497b4064594ac4fe068f72b014b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>產品名稱:</td><td>四坑炮尖</td><td>四坑扁炮盤</td><td>四坑2&quot; 扁炮盤</td><td>四坑短炮尖</td><td>四坑短扁炮盤</td></tr><tr><td>編號:</td><td>CS250</td><td>CS250F</td><td>CS250-F40</td><td>CS165</td><td>CS165F</td></tr><tr><td>規格:</td><td>(14x250)mm</td><td>(14x250x20)mm</td><td>(14x250x40)mm</td><td>(10x160)mm</td><td>(10x160x15)mm</td></tr><tr><td>包裝:</td><td>20支/扎(膠筒裝)</td><td>20支/扎(膠筒裝)</td><td>20支/扎(掛袋裝)</td><td>50支/扎(掛袋裝)</td><td>50支/扎(掛袋裝)</td></tr></table>",
+        "bbox": [
+            20,
+            869,
+            979,
+            948
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "Page. 38 ",
+        "bbox": [
+            490,
+            954,
+            557,
+            970
+        ],
+        "page_idx": 19
+    }
+]
