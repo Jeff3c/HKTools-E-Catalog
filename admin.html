@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>目錄管理後台</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="admin-header">
+    <div>
+      <p class="kicker">HK TOOLS ADMIN</p>
+      <h1>產品目錄管理後台</h1>
+      <p class="subtitle">可逐項修正圖片路徑與產品資料，修改儲存在本機瀏覽器。</p>
+    </div>
+    <a class="back-link" href="index.html">返回目錄</a>
+  </header>
+
+  <main class="admin-main">
+    <section id="loginPanel" class="panel login-panel" aria-label="管理員登入">
+      <h2>登入</h2>
+      <p class="hint">此為純前端保護，只用於防誤操作。預設密碼：<strong>hktools-admin</strong></p>
+      <label for="passwordInput">管理員密碼</label>
+      <input id="passwordInput" type="password" autocomplete="current-password" placeholder="請輸入密碼">
+      <button id="loginBtn" type="button">登入</button>
+      <p id="loginError" class="error-text" hidden>密碼錯誤，請再試一次。</p>
+    </section>
+
+    <section id="adminApp" class="panel" aria-label="目錄編輯器" hidden>
+      <div class="toolbar-row">
+        <input id="adminSearchInput" type="search" placeholder="搜尋 ID / 編號 / 名稱 / 規格 / 圖片..." autocomplete="off">
+        <button id="addEntryBtn" type="button">新增項目</button>
+        <button id="duplicateEntryBtn" type="button">複製目前項目</button>
+        <button id="saveEntryBtn" type="button">套用此項修改</button>
+        <button id="saveAllBtn" type="button" class="primary">儲存到本機</button>
+        <button id="resetBaseBtn" type="button">還原原始資料</button>
+        <button id="exportBtn" type="button">匯出 JSON</button>
+        <label class="import-btn" for="importInput">匯入 JSON</label>
+        <input id="importInput" type="file" accept="application/json" hidden>
+        <button id="logoutBtn" type="button">登出</button>
+      </div>
+
+      <div class="toolbar-row secondary">
+        <p id="statusText" class="status-text">初始化中...</p>
+        <p id="resultSummary" class="summary-text"></p>
+        <p id="unsavedNotice" class="unsaved" hidden>尚有未儲存修改</p>
+      </div>
+
+      <div class="admin-layout">
+        <aside class="entry-list-panel" aria-label="項目清單">
+          <h2>項目清單</h2>
+          <ul id="entryList" class="entry-list"></ul>
+        </aside>
+
+        <section class="editor-panel" aria-label="項目欄位">
+          <h2>欄位編輯</h2>
+          <form id="editorForm" novalidate>
+            <div class="field-grid">
+              <label>ID
+                <input id="fieldId" type="text" readonly>
+              </label>
+              <label>分類
+                <input id="fieldCategory" type="text">
+              </label>
+              <label>主章節
+                <input id="fieldSection" type="text">
+              </label>
+              <label>子章節
+                <input id="fieldSubSection" type="text">
+              </label>
+              <label>產品名稱
+                <input id="fieldName" type="text">
+              </label>
+              <label>產品編號
+                <input id="fieldCode" type="text">
+              </label>
+              <label>規格
+                <input id="fieldSpecs" type="text">
+              </label>
+              <label>圖片路徑 (如 images/xxx.jpg)
+                <input id="fieldImage" type="text">
+              </label>
+              <label>PDF 頁碼 (全冊)
+                <input id="fieldPdfPage" type="number" min="0" step="1">
+              </label>
+              <label>PDF 頁碼 (分冊)
+                <input id="fieldPdfPageLocal" type="number" min="0" step="1">
+              </label>
+              <label>PDF 檔案
+                <input id="fieldPdfFile" type="text" placeholder="產品目錄_origin.pdf">
+              </label>
+              <label>PDF 連結
+                <input id="fieldPdfLink" type="text" placeholder="產品目錄_origin.pdf#page=3">
+              </label>
+              <label>來源檔
+                <input id="fieldSource" type="text">
+              </label>
+              <label>材料標籤 (逗號或 | 分隔)
+                <input id="fieldMaterials" type="text">
+              </label>
+              <label>用途標籤 (逗號或 | 分隔)
+                <input id="fieldPurposes" type="text">
+              </label>
+              <label>品牌標籤 (逗號或 | 分隔)
+                <input id="fieldTagBrand" type="text">
+              </label>
+              <label>類型標籤 (逗號或 | 分隔)
+                <input id="fieldTagType" type="text">
+              </label>
+            </div>
+
+            <label>材料描述
+              <textarea id="fieldMaterialText" rows="2"></textarea>
+            </label>
+            <label>用途描述
+              <textarea id="fieldPurposeText" rows="2"></textarea>
+            </label>
+            <label>包裝
+              <textarea id="fieldPackaging" rows="2"></textarea>
+            </label>
+            <label>配件
+              <textarea id="fieldAccessories" rows="2"></textarea>
+            </label>
+            <label>備註
+              <textarea id="fieldNotes" rows="2"></textarea>
+            </label>
+          </form>
+        </section>
+
+        <section class="preview-panel" aria-label="圖片預覽">
+          <h2>圖片預覽</h2>
+          <div class="preview-wrap">
+            <img id="previewImage" alt="圖片預覽">
+          </div>
+          <p id="previewPath" class="preview-path">尚未選擇項目</p>
+
+          <div class="image-tools">
+            <label class="import-btn" for="uploadImageInput">上傳圖片檔</label>
+            <input id="uploadImageInput" type="file" accept="image/*" hidden>
+            <button id="clearImageBtn" type="button">清除目前圖片</button>
+          </div>
+
+          <div id="pasteDropZone" class="paste-zone" tabindex="0" role="button" aria-label="貼上或拖放圖片區域">
+            點擊此區後按 Ctrl+V 貼上圖片，或直接拖放圖片到此區。
+          </div>
+
+          <p class="hint">提示：此功能會將圖片直接存入管理資料，無需再手動填寫圖片路徑。</p>
+
+          <hr>
+
+          <h3>登入密碼設定</h3>
+          <p class="hint">可改成你自己的密碼（只會儲存在此瀏覽器）。</p>
+          <label for="newPasswordInput">新密碼</label>
+          <input id="newPasswordInput" type="password" autocomplete="new-password" placeholder="至少 4 字元">
+          <button id="changePasswordBtn" type="button">更新密碼</button>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="catalog-data.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>

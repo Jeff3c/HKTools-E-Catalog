@@ -85,6 +85,17 @@ body {
   margin: 0 0 6px;
 }
 
+.admin-link {
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(20, 90, 76, 0.45);
+}
+
+.admin-link:hover {
+  border-bottom-color: var(--accent);
+}
+
 .layout {
   display: grid;
   grid-template-columns: minmax(260px, 300px) 1fr;

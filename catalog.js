@@ -1,7 +1,50 @@
 (function () {
   "use strict";
 
-  const rawProducts = Array.isArray(window.CATALOG_PRODUCTS) ? window.CATALOG_PRODUCTS : [];
+  const STORAGE_KEYS = {
+    productsOverride: "catalogProductsOverrideV1",
+    adminUpdatedAt: "catalogAdminUpdatedAtV1"
+  };
+
+  function safeParseJson(value) {
+    if (!value || typeof value !== "string") {
+      return null;
+    }
+
+    try {
+      return JSON.parse(value);
+    } catch (_err) {
+      return null;
+    }
+  }
+
+  function loadProductSource() {
+    const fallback = Array.isArray(window.CATALOG_PRODUCTS) ? window.CATALOG_PRODUCTS : [];
+
+    try {
+      const parsed = safeParseJson(localStorage.getItem(STORAGE_KEYS.productsOverride));
+      if (Array.isArray(parsed)) {
+        return {
+          products: parsed,
+          fromOverride: true,
+          updatedAt: localStorage.getItem(STORAGE_KEYS.adminUpdatedAt) || ""
+        };
+      }
+    } catch (_err) {
+      // Ignore storage access issues and continue with base data.
+    }
+
+    return {
+      products: fallback,
+      fromOverride: false,
+      updatedAt: ""
+    };
+  }
+
+  const productSource = loadProductSource();
+  const rawProducts = productSource.products;
+  const usingOverride = productSource.fromOverride;
+  const overrideUpdatedAt = productSource.updatedAt;
   const meta = window.CATALOG_META || {};
 
   function normalizeTagList(value) {
@@ -25,7 +68,24 @@
     ...product,
     materials: normalizeTagList(product.materials),
     purposes: normalizeTagList(product.purposes),
-    searchText: String(product.searchText || "")
+    searchText: String(
+      product.searchText ||
+        [
+          product.id,
+          product.category,
+          product.section,
+          product.subSection,
+          product.name,
+          product.code,
+          product.specs,
+          product.materialText,
+          product.purposeText,
+          product.packaging,
+          product.notes
+        ]
+          .filter(Boolean)
+          .join(" ")
+    )
   }));
 
   const elements = {
@@ -307,7 +367,17 @@
   function renderMeta() {
     const generatedAt = meta.generatedAt ? meta.generatedAt.replace("T", " ") : "";
     const total = Number.isFinite(meta.totalProducts) ? meta.totalProducts : products.length;
-    elements.metaInfo.textContent = `資料筆數: ${total}${generatedAt ? ` | 生成時間: ${generatedAt}` : ""}`;
+
+    const parts = [`資料筆數: ${total}`];
+    if (generatedAt) {
+      parts.push(`生成時間: ${generatedAt}`);
+    }
+    if (usingOverride) {
+      const updateLabel = overrideUpdatedAt ? overrideUpdatedAt.replace("T", " ").slice(0, 19) : "未知";
+      parts.push(`已套用管理員修正資料 (${updateLabel})`);
+    }
+
+    elements.metaInfo.textContent = parts.join(" | ");
   }
 
   function init() {
