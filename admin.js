@@ -308,11 +308,68 @@
     const githubCommitBtn = $('githubCommitBtn');
     const uploadImageInput = $('uploadImageInput');
 
-    // restore token if saved
-    try {
-      const saved = localStorage.getItem('hktools_github_token');
-      if (saved) githubTokenInput.value = saved;
-    } catch (e) {}
+    const GITHUB_SETTINGS_KEY = 'hktools_github_settings_v1';
+    const GITHUB_TOKEN_KEY = 'hktools_github_token';
+    const GITHUB_TOKEN_REMEMBER_KEY = 'hktools_github_token_remember_v1';
+    const defaultGithubSettings = {
+      owner: 'Jeff3c',
+      repo: 'HKTools-E-Catalog',
+      branch: 'main',
+      path: 'catalog-data.js'
+    };
+
+    function restoreGithubSettings() {
+      let saved = {};
+      try {
+        const raw = localStorage.getItem(GITHUB_SETTINGS_KEY);
+        saved = raw ? (JSON.parse(raw) || {}) : {};
+      } catch (_e) {
+        saved = {};
+      }
+
+      githubOwnerInput.value = (saved.owner || githubOwnerInput.value || defaultGithubSettings.owner).trim();
+      githubRepoInput.value = (saved.repo || githubRepoInput.value || defaultGithubSettings.repo).trim();
+      githubBranchInput.value = (saved.branch || githubBranchInput.value || defaultGithubSettings.branch).trim();
+      githubPathInput.value = (saved.path || githubPathInput.value || defaultGithubSettings.path).trim();
+    }
+
+    function saveGithubSettings() {
+      const settings = {
+        owner: (githubOwnerInput.value || defaultGithubSettings.owner).trim(),
+        repo: (githubRepoInput.value || defaultGithubSettings.repo).trim(),
+        branch: (githubBranchInput.value || defaultGithubSettings.branch).trim(),
+        path: (githubPathInput.value || defaultGithubSettings.path).trim()
+      };
+      try {
+        localStorage.setItem(GITHUB_SETTINGS_KEY, JSON.stringify(settings));
+      } catch (_e) {}
+    }
+
+    function restoreGithubToken() {
+      try {
+        const remember = localStorage.getItem(GITHUB_TOKEN_REMEMBER_KEY);
+        if (remember !== null) rememberTokenInput.checked = remember === '1';
+
+        const savedToken = localStorage.getItem(GITHUB_TOKEN_KEY);
+        if (savedToken) githubTokenInput.value = savedToken;
+      } catch (_e) {}
+    }
+
+    restoreGithubSettings();
+    restoreGithubToken();
+    saveGithubSettings();
+
+    [githubOwnerInput, githubRepoInput, githubBranchInput, githubPathInput].forEach((input) => {
+      input.addEventListener('change', saveGithubSettings);
+      input.addEventListener('blur', saveGithubSettings);
+    });
+
+    rememberTokenInput.addEventListener('change', () => {
+      try {
+        localStorage.setItem(GITHUB_TOKEN_REMEMBER_KEY, rememberTokenInput.checked ? '1' : '0');
+        if (!rememberTokenInput.checked) localStorage.removeItem(GITHUB_TOKEN_KEY);
+      } catch (_e) {}
+    });
 
     // commit handler
     let lock = false;
@@ -322,13 +379,21 @@
       try {
         const token = githubTokenInput.value.trim();
         if (!token) { showStatus('請輸入 GitHub token', true); lock = false; return; }
-        if (rememberTokenInput.checked) localStorage.setItem('hktools_github_token', token);
-        else localStorage.removeItem('hktools_github_token');
-        const owner = githubOwnerInput.value.trim();
-        const repo = githubRepoInput.value.trim();
-        const branch = githubBranchInput.value.trim() || 'main';
-        const path = githubPathInput.value.trim() || 'catalog-data.js';
+        if (rememberTokenInput.checked) {
+          localStorage.setItem(GITHUB_TOKEN_KEY, token);
+          localStorage.setItem(GITHUB_TOKEN_REMEMBER_KEY, '1');
+        } else {
+          localStorage.removeItem(GITHUB_TOKEN_KEY);
+          localStorage.setItem(GITHUB_TOKEN_REMEMBER_KEY, '0');
+        }
+
+        const owner = githubOwnerInput.value.trim() || defaultGithubSettings.owner;
+        const repo = githubRepoInput.value.trim() || defaultGithubSettings.repo;
+        const branch = githubBranchInput.value.trim() || defaultGithubSettings.branch;
+        const path = githubPathInput.value.trim() || defaultGithubSettings.path;
         const commitMessage = githubCommitMessageInput.value.trim() || `Update ${path} via admin UI`;
+
+        saveGithubSettings();
 
         const images = [];
         const prodId = $('fieldCode').value.trim() || $('fieldId').value.trim() || String(Date.now());
